@@ -1,0 +1,55 @@
+body {
+  padding: 0;
+  margin: auto;
+  height: 100%;
+  overflow: hidden;
+  background: #175cad;
+  text-align: center;
+  font-family: Inter, sans-serif;
+  text-align: center;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.globe-app {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#logo {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  width: 200px;
+  transform: translate(-100px, -60px);
+}
+
+#logo-on-drugs {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 800px;
+  height: 600px;
+}
+
+#logo-on-drugs img {
+  position: absolute;
+  top: 50%;
+  margin: auto;
+  width: 600px;
+  transform: translate(-50px, -180px);
+  mix-blend-mode: difference;
+}
+
+.globe-app-orange {
+  left: 290px;
+  width: 100vw;
+  height: 100vh;
+}

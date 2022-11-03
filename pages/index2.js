@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Globe />
+        <Globe showZoomies={true} showGlobe={false} />
         <img src="/logo-white.png" id="logo" />
       </main>
     </>

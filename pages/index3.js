@@ -14,8 +14,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Globe />
-        <img src="/logo-white.png" id="logo" />
+        <Globe
+          showZoomies={false}
+          showGlobe={true}
+          className="globe-app-orange"
+        />
+        <div id="logo-on-drugs">
+          <img src="/logo-white.png" />
+        </div>
       </main>
     </>
   );
