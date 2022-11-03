@@ -144,9 +144,9 @@ export function init() {
 
   function render() {
     if (time <= drawMax) {
-      time += 600;
+      time += 1200;
     } else {
-      offset += 600;
+      offset += 1200;
     }
 
     meshes.forEach((mesh) => mesh.geometry.setDrawRange(offset, time));

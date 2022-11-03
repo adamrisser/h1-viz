@@ -24,7 +24,7 @@ export function Path(coords, color) {
 
   this.play = () => {
     // must be a power of 3!
-    time += 60;
+    time += 45;
 
     // start impact circle
     if (time > 0) {
