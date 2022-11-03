@@ -9,6 +9,7 @@ const colors = [
 ];
 
 export function init(rootMesh) {
+  console.log("init paths");
   const paths = [];
 
   const allCoords = [

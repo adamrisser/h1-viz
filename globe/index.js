@@ -1,12 +1,13 @@
+import * as THREE from "three";
 import { init as initScene } from "./scene";
 import { init as initSphere } from "./sphere";
 import { init as initPaths } from "./arcs";
 import { init as initZoomies } from "./zoomies";
-import Stats from "stats.js";
+// import Stats from "stats.js";
 
-const stats = new Stats();
-stats.showPanel(0); // 0: fps, 1: ms, 2: mb, 3+: custom
-document.body.appendChild(stats.dom);
+// const stats = new Stats();
+// stats.showPanel(0); // 0: fps, 1: ms, 2: mb, 3+: custom
+// document.body.appendChild(stats.dom);
 
 // singleton
 let instanceOfGlobe = null;
@@ -19,6 +20,8 @@ export class Globe {
   }
 
   constructor(container, showZoomies = false, showGlobe = true) {
+    console.log("globe constructure");
+
     const {
       play: sceneRender,
       renderer,
@@ -26,7 +29,6 @@ export class Globe {
       rootMesh,
       scene,
     } = initScene(container);
-
     this.sceneRender = sceneRender;
 
     if (showGlobe) this.sphereRender = initSphere();
@@ -48,12 +50,12 @@ export class Globe {
     this.showPaths = true;
     this.showZoomies = showZoomies;
     this.showGlobe = showGlobe;
-    // const dci = new THREE.DrawCallInspector(renderer, scene, camera, {});
-    // dci.mount();
+    // this.dci = new THREE.DrawCallInspector(renderer, scene, camera, {});
+    // this.dci.mount();
   }
 
   play() {
-    stats.begin();
+    // stats.begin();
     this.sceneRender();
 
     if (this.showGlobe) {
@@ -63,12 +65,12 @@ export class Globe {
 
     if (this.showZoomies) this.zoomiesRender();
 
-    // dci.update();
-    // dci.begin();
+    // this.dci.update();
+    // this.dci.begin();
     this.renderer.render(this.scene, this.camera);
-    // dci.end();
+    // this.dci.end();
 
-    stats.end();
+    // stats.end();
 
     this.animationFrame = requestAnimationFrame(() => this.play());
   }

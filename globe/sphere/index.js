@@ -11,6 +11,7 @@ import { PointGlobe } from "./pointGlobe";
 // 3. Halo effect to smooth the edge
 
 export function init() {
+  console.log("init sphere");
   const globe = createGlobe(COLORS.sapphire);
   const points = new PointGlobe(globe.geometry.attributes.position.count);
 

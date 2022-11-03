@@ -17,28 +17,29 @@ const GlobeComponent = ({
     if (container && renderer) {
       const scW = container.clientWidth;
       const scH = container.clientHeight;
-
+      console.log("window resize");
       renderer.setSize(scW, scH);
       camera.aspect = scW / scH;
       camera.updateProjectionMatrix();
     }
-  }, [renderer]);
+  }, [renderer, camera]);
 
   useEffect(() => {
     const { current: container } = refBody;
 
     if (container && !renderer) {
-      console.log("initialize globe animation");
       const globe = Globe.newInstanceOf(container, showZoomies, showGlobe);
       setRenderer(globe.renderer);
       setCamera(globe.camera);
       setLoading(false);
 
+      window.globe = globe;
       globe.play();
 
-      // return () => {
-      //   globe.dispose();
-      // };
+      return () => {
+        console.log(globe.renderer.info);
+        globe.dispose();
+      };
     }
   }, []);
 
