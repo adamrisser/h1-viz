@@ -87,7 +87,7 @@ export function Zoomy(color) {
     let r = getRand(0, 10);
 
     if (r === 0) {
-      //turnLeft(); // dont let it go left
+      turnLeft(); // dont let it go left
     } else if (r === 1) {
       turnRight();
     } else if (r === 2 && loopCount < loopMax) {
@@ -96,10 +96,10 @@ export function Zoomy(color) {
       turnRight();
       loopCount++;
     } else if (r === 3 && loopCount < loopMax) {
-      turnLeft();
-      straight(getRand(4, 16));
-      turnRight();
-      loopCount++;
+      // turnLeft();
+      // straight(getRand(4, 16));
+      // turnRight();
+      // loopCount++;
     } else if (r === 4 || r === 5) {
       straight();
     }

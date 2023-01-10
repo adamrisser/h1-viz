@@ -11,26 +11,17 @@ import { init as initZoomies } from "./zoomies";
 let instanceOfGlobe = null;
 
 export class Onboarding {
-  static newInstanceOf(container, showZoomies, showGlobe) {
+  static newInstanceOf(container, showZoomies) {
     if (!instanceOfGlobe)
       instanceOfGlobe = new Onboarding(container, showZoomies);
     return instanceOfGlobe;
   }
 
-  constructor(container, showGlobe = true) {
-    console.log("globe constructure");
-
-    const {
-      play: sceneRender,
-      renderer,
-      camera,
-      rootMesh,
-      scene,
-    } = initScene(container);
+  constructor(container) {
+    const { play: sceneRender, renderer, camera, scene } = initScene(container);
     this.sceneRender = sceneRender;
 
     this.zoomiesRender = initZoomies();
-
 
     this.container = container;
     this.renderer = renderer;

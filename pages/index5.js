@@ -44,7 +44,7 @@ export default function Home() {
             </div>
             <h1 className={styles.header1}>Hi Maya! Welcome to HCP Universe</h1>
             <p className={styles.header2}>
-              Let\'s complete your account set-up.
+              Let&apos;s complete your account set-up.
             </p>
             <div className={styles.inner}>
               <label className={styles.label}>What is your role*</label>
