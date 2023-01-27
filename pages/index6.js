@@ -22,8 +22,14 @@ export default function Home(data = {}) {
   );
 }
 
+let baseUrl = "http://localhost:3000";
+
 export async function getServerSideProps(context) {
-  const res = await fetch(`http://localhost:3000/api/taxonomy`);
+  if (process.env.Vercel_URL) {
+    baseUrl = process.env.Vercel_URL;
+  }
+  console.log(baseUrl);
+  const res = await fetch(`${baseUrl}/api/taxonomy`);
   const data = await res.json();
 
   return {
