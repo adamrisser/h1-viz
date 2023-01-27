@@ -1,0 +1,5759 @@
+{
+  "name": "H1 Taxonomy",
+  "children": [
+    {
+      "name": "allergy and immunology",
+      "value": 1,
+      "children": [
+        {
+          "name": "clinical allergy",
+          "value": 1,
+          "children": [
+            {
+              "name": "anthracosis",
+              "value": 1
+            },
+            {
+              "name": "\"dermatitis",
+              "value": 1
+            },
+            {
+              "name": "hematologic diseases",
+              "value": 1
+            },
+            {
+              "name": "\"histiocytosis",
+              "value": 1
+            },
+            {
+              "name": "peanut hypersensitivity",
+              "value": 1
+            },
+            {
+              "name": "\"conjunctivitis",
+              "value": 1
+            },
+            {
+              "name": "drug hypersensitivity syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"granulomatous disease",
+              "value": 1
+            },
+            {
+              "name": "leukocytosis",
+              "value": 1
+            },
+            {
+              "name": "\"rhinitis",
+              "value": 1
+            },
+            {
+              "name": "\"hypersensitivity",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "clinical immunology",
+          "value": 1,
+          "children": [
+            {
+              "name": "bloom syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"hyper-igm immunodeficiency syndrome",
+              "value": 1
+            },
+            {
+              "name": "x-linked combined immunodeficiency diseases",
+              "value": 1
+            },
+            {
+              "name": "cryoglobulinemia",
+              "value": 1
+            },
+            {
+              "name": "common variable immunodeficiency",
+              "value": 1
+            },
+            {
+              "name": "digeorge syndrome",
+              "value": 1
+            },
+            {
+              "name": "immunologic deficiency syndromes",
+              "value": 1
+            },
+            {
+              "name": "lymphoproliferative disorders",
+              "value": 1
+            },
+            {
+              "name": "aids-associated nephropathy",
+              "value": 1
+            },
+            {
+              "name": "hiv-associated lipodystrophy syndrome",
+              "value": 1
+            },
+            {
+              "name": "lymphopenia",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "anesthesiology",
+      "value": 1,
+      "children": [
+        {
+          "name": "anesthesiology - adverse event",
+          "value": 1,
+          "children": [
+            {
+              "name": "chemical and drug induced liver injury",
+              "value": 1
+            },
+            {
+              "name": "serotonin syndrome",
+              "value": 1
+            },
+            {
+              "name": "acute generalized exanthematous pustulosis",
+              "value": 1
+            },
+            {
+              "name": "drug eruptions",
+              "value": 1
+            },
+            {
+              "name": "injection site reaction",
+              "value": 1
+            },
+            {
+              "name": "hand-foot syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"asthma",
+              "value": 1
+            },
+            {
+              "name": "cardiotoxicity",
+              "value": 1
+            },
+            {
+              "name": "propofol infusion syndrome",
+              "value": 1
+            },
+            {
+              "name": "anticholinergic syndrome",
+              "value": 1
+            },
+            {
+              "name": "drug hypersensitivity",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "pain medicine",
+          "value": 1,
+          "children": [
+            {
+              "name": "acute pain",
+              "value": 1
+            },
+            {
+              "name": "\"fasciitis",
+              "value": 1
+            },
+            {
+              "name": "lethargy",
+              "value": 1
+            },
+            {
+              "name": "pain",
+              "value": 1
+            },
+            {
+              "name": "periarthritis",
+              "value": 1
+            },
+            {
+              "name": "\"shock",
+              "value": 1
+            },
+            {
+              "name": "cerebrospinal fluid leak",
+              "value": 1
+            },
+            {
+              "name": "fasciitis",
+              "value": 1
+            },
+            {
+              "name": "elbow tendinopathy",
+              "value": 1
+            },
+            {
+              "name": "glossopharyngeal nerve diseases",
+              "value": 1
+            },
+            {
+              "name": "miller fisher syndrome",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "surgical anesthesiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "brachial plexus block",
+              "value": 1
+            },
+            {
+              "name": "\"anesthesia",
+              "value": 1
+            },
+            {
+              "name": "deep sedation",
+              "value": 1
+            },
+            {
+              "name": "\"analgesia",
+              "value": 1
+            },
+            {
+              "name": "\"analgesia",
+              "value": 1
+            },
+            {
+              "name": "\"anesthesia",
+              "value": 1
+            },
+            {
+              "name": "conscious sedation",
+              "value": 1
+            },
+            {
+              "name": "analgesia",
+              "value": 1
+            },
+            {
+              "name": "\"anesthesia",
+              "value": 1
+            },
+            {
+              "name": "acupuncture analgesia",
+              "value": 1
+            },
+            {
+              "name": "\"anesthesia",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cardiology",
+      "value": 1,
+      "children": [
+        {
+          "name": "clinical cardiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "aneurysm",
+              "value": 1
+            },
+            {
+              "name": "apnea",
+              "value": 1
+            },
+            {
+              "name": "cadasil",
+              "value": 1
+            },
+            {
+              "name": "cardiac tamponade",
+              "value": 1
+            },
+            {
+              "name": "\"cardiomyopathy",
+              "value": 1
+            },
+            {
+              "name": "\"hypertension",
+              "value": 1
+            },
+            {
+              "name": "hypoxia",
+              "value": 1
+            },
+            {
+              "name": "mouth breathing",
+              "value": 1
+            },
+            {
+              "name": "\"tachycardia",
+              "value": 1
+            },
+            {
+              "name": "postpericardiotomy syndrome",
+              "value": 1
+            },
+            {
+              "name": "sneezing",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital heart disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "aortic valve stenosis",
+              "value": 1
+            },
+            {
+              "name": "arrhythmogenic right ventricular dysplasia",
+              "value": 1
+            },
+            {
+              "name": "cleft lip",
+              "value": 1
+            },
+            {
+              "name": "de lange syndrome",
+              "value": 1
+            },
+            {
+              "name": "trichothiodystrophy syndromes",
+              "value": 1
+            },
+            {
+              "name": "alagille syndrome",
+              "value": 1
+            },
+            {
+              "name": "alstrom syndrome",
+              "value": 1
+            },
+            {
+              "name": "bronchomalacia",
+              "value": 1
+            },
+            {
+              "name": "charcot-marie-tooth disease",
+              "value": 1
+            },
+            {
+              "name": "choledochal cyst",
+              "value": 1
+            },
+            {
+              "name": "cockayne syndrome",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "adiposis dolorosa",
+              "value": 1
+            },
+            {
+              "name": "\"alkalosis",
+              "value": 1
+            },
+            {
+              "name": "\"amino acid metabolism",
+              "value": 1
+            },
+            {
+              "name": "autosomal emery-dreifuss muscular dystrophy",
+              "value": 1
+            },
+            {
+              "name": "behcet syndrome",
+              "value": 1
+            },
+            {
+              "name": "central nervous system cysts",
+              "value": 1
+            },
+            {
+              "name": "central nervous system vascular malformations",
+              "value": 1
+            },
+            {
+              "name": "cone-rod dystrophies",
+              "value": 1
+            },
+            {
+              "name": "congenital heart disease",
+              "value": 1
+            },
+            {
+              "name": "ectopia lentis",
+              "value": 1
+            },
+            {
+              "name": "\"genetic diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "diseases of vessels",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"angina pectoris",
+              "value": 1
+            },
+            {
+              "name": "\"embolism",
+              "value": 1
+            },
+            {
+              "name": "hemorrhagic stroke",
+              "value": 1
+            },
+            {
+              "name": "hypertensive retinopathy",
+              "value": 1
+            },
+            {
+              "name": "intracranial aneurysm",
+              "value": 1
+            },
+            {
+              "name": "prehypertension",
+              "value": 1
+            },
+            {
+              "name": "retinal vein occlusion",
+              "value": 1
+            },
+            {
+              "name": "\"stroke",
+              "value": 1
+            },
+            {
+              "name": "vascular fistula",
+              "value": 1
+            },
+            {
+              "name": "vascular headaches",
+              "value": 1
+            },
+            {
+              "name": "aortitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "echocardiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"angiography",
+              "value": 1
+            },
+            {
+              "name": "bundle-branch block",
+              "value": 1
+            },
+            {
+              "name": "cerebral angiography",
+              "value": 1
+            },
+            {
+              "name": "cerebrovascular disorders",
+              "value": 1
+            },
+            {
+              "name": "kidney function tests",
+              "value": 1
+            },
+            {
+              "name": "lung compliance",
+              "value": 1
+            },
+            {
+              "name": "mucociliary clearance",
+              "value": 1
+            },
+            {
+              "name": "\"radiographic image interpretation",
+              "value": 1
+            },
+            {
+              "name": "radiostereometric analysis",
+              "value": 1
+            },
+            {
+              "name": "semen analysis",
+              "value": 1
+            },
+            {
+              "name": "solitary pulmonary nodule",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "electrophysiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "budd-chiari syndrome",
+              "value": 1
+            },
+            {
+              "name": "cardiac conduction system disease",
+              "value": 1
+            },
+            {
+              "name": "cerebrovascular disorders",
+              "value": 1
+            },
+            {
+              "name": "posterior leukoencephalopathy syndrome",
+              "value": 1
+            },
+            {
+              "name": "pre-excitation syndromes",
+              "value": 1
+            },
+            {
+              "name": "wolff-parkinson-white syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"arrhythmias",
+              "value": 1
+            },
+            {
+              "name": "erythromelalgia",
+              "value": 1
+            },
+            {
+              "name": "stroke",
+              "value": 1
+            },
+            {
+              "name": "\"cardiac complexes",
+              "value": 1
+            },
+            {
+              "name": "esophageal and gastric varices",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "heart failure/transplant",
+          "value": 1,
+          "children": [
+            {
+              "name": "ventricular flutter",
+              "value": 1
+            },
+            {
+              "name": "drug-related side effects and adverse reactions",
+              "value": 1
+            },
+            {
+              "name": "takotsubo cardiomyopathy",
+              "value": 1
+            },
+            {
+              "name": "solitary pulmonary nodule",
+              "value": 1
+            },
+            {
+              "name": "\"tachycardia",
+              "value": 1
+            },
+            {
+              "name": "drug hypersensitivity",
+              "value": 1
+            },
+            {
+              "name": "wolff-parkinson-white syndrome",
+              "value": 1
+            },
+            {
+              "name": "atrioventricular block",
+              "value": 1
+            },
+            {
+              "name": "bundle-branch block",
+              "value": 1
+            },
+            {
+              "name": "cardiomegaly",
+              "value": 1
+            },
+            {
+              "name": "heart diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "interventional cardiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"aneurysm",
+              "value": 1
+            },
+            {
+              "name": "aortic coarctation",
+              "value": 1
+            },
+            {
+              "name": "aortitis",
+              "value": 1
+            },
+            {
+              "name": "bicuspid aortic valve disease",
+              "value": 1
+            },
+            {
+              "name": "brain ischemia",
+              "value": 1
+            },
+            {
+              "name": "bundle-branch block",
+              "value": 1
+            },
+            {
+              "name": "carotid artery injuries",
+              "value": 1
+            },
+            {
+              "name": "carotid stenosis",
+              "value": 1
+            },
+            {
+              "name": "cogan syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"heart septal defects",
+              "value": 1
+            },
+            {
+              "name": "\"hypertension",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "nuclear cardiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "heart block",
+              "value": 1
+            },
+            {
+              "name": "atrial premature complexes",
+              "value": 1
+            },
+            {
+              "name": "bundle-branch block",
+              "value": 1
+            },
+            {
+              "name": "\"heart failure",
+              "value": 1
+            },
+            {
+              "name": "cardiac conduction system disease",
+              "value": 1
+            },
+            {
+              "name": "myocarditis",
+              "value": 1
+            },
+            {
+              "name": "sick sinus syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"tachycardia",
+              "value": 1
+            },
+            {
+              "name": "adams-stokes syndrome",
+              "value": 1
+            },
+            {
+              "name": "coronary artery disease",
+              "value": 1
+            },
+            {
+              "name": "\"arrhythmias",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "vascular",
+          "value": 1,
+          "children": [
+            {
+              "name": "basal ganglia hemorrhage",
+              "value": 1
+            },
+            {
+              "name": "crest syndrome",
+              "value": 1
+            },
+            {
+              "name": "embolism and thrombosis",
+              "value": 1
+            },
+            {
+              "name": "fibromuscular dysplasia",
+              "value": 1
+            },
+            {
+              "name": "retinal arterial macroaneurysm",
+              "value": 1
+            },
+            {
+              "name": "retinal telangiectasis",
+              "value": 1
+            },
+            {
+              "name": "\"vasospasm",
+              "value": 1
+            },
+            {
+              "name": "venous thromboembolism",
+              "value": 1
+            },
+            {
+              "name": "aortic diseases",
+              "value": 1
+            },
+            {
+              "name": "aortic rupture",
+              "value": 1
+            },
+            {
+              "name": "atherosclerosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "cardiology - other disorders",
+          "value": 1,
+          "children": [
+            {
+              "name": "postpericardiotomy syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"hypotension",
+              "value": 1
+            },
+            {
+              "name": "hypotension",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "critical care",
+      "value": 1,
+      "children": [
+        {
+          "name": "burns",
+          "value": 1,
+          "children": [
+            {
+              "name": "sunburn",
+              "value": 1
+            },
+            {
+              "name": "\"burns",
+              "value": 1
+            },
+            {
+              "name": "smoke inhalation injury",
+              "value": 1
+            },
+            {
+              "name": "\"burns",
+              "value": 1
+            },
+            {
+              "name": "eye burns",
+              "value": 1
+            },
+            {
+              "name": "burns",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "critical care - external causes of morbidity",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"wounds",
+              "value": 1
+            },
+            {
+              "name": "rugby",
+              "value": 1
+            },
+            {
+              "name": "martial arts",
+              "value": 1
+            },
+            {
+              "name": "swimming",
+              "value": 1
+            },
+            {
+              "name": "dancing",
+              "value": 1
+            },
+            {
+              "name": "tennis",
+              "value": 1
+            },
+            {
+              "name": "wrestling",
+              "value": 1
+            },
+            {
+              "name": "basketball",
+              "value": 1
+            },
+            {
+              "name": "soccer",
+              "value": 1
+            },
+            {
+              "name": "accidental falls",
+              "value": 1
+            },
+            {
+              "name": "running",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "medical and surgical complications",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"blood loss",
+              "value": 1
+            },
+            {
+              "name": "blood-borne infections",
+              "value": 1
+            },
+            {
+              "name": "\"cardiac complexes",
+              "value": 1
+            },
+            {
+              "name": "chromosome aberrations",
+              "value": 1
+            },
+            {
+              "name": "malignant hyperthermia",
+              "value": 1
+            },
+            {
+              "name": "postoperative complications",
+              "value": 1
+            },
+            {
+              "name": "pulmonary fibrosis",
+              "value": 1
+            },
+            {
+              "name": "\"renal insufficiency",
+              "value": 1
+            },
+            {
+              "name": "amenorrhea",
+              "value": 1
+            },
+            {
+              "name": "\"bronchitis",
+              "value": 1
+            },
+            {
+              "name": "hematoma",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "\"mental",
+          "value": 1,
+          "children": [
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            },
+            {
+              "name": " behavioral and neurodevelopmental disorders\"",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "injuries and trauma",
+          "value": 1,
+          "children": [
+            {
+              "name": "anaphylaxis",
+              "value": 1
+            },
+            {
+              "name": "\"fractures",
+              "value": 1
+            },
+            {
+              "name": "multiple trauma",
+              "value": 1
+            },
+            {
+              "name": "craniocerebral trauma",
+              "value": 1
+            },
+            {
+              "name": "mandibular fractures",
+              "value": 1
+            },
+            {
+              "name": "facial injuries",
+              "value": 1
+            },
+            {
+              "name": "wounds and injuries",
+              "value": 1
+            },
+            {
+              "name": "heart injuries",
+              "value": 1
+            },
+            {
+              "name": "swimming",
+              "value": 1
+            },
+            {
+              "name": "tooth fractures",
+              "value": 1
+            },
+            {
+              "name": "running",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "poisoning",
+          "value": 1,
+          "children": [
+            {
+              "name": "scorpion stings",
+              "value": 1
+            },
+            {
+              "name": "mercury poisoning",
+              "value": 1
+            },
+            {
+              "name": "poisoning",
+              "value": 1
+            },
+            {
+              "name": "carbon monoxide poisoning",
+              "value": 1
+            },
+            {
+              "name": "inert gas narcosis",
+              "value": 1
+            },
+            {
+              "name": "\"alcohol-induced disorders",
+              "value": 1
+            },
+            {
+              "name": "lead poisoning",
+              "value": 1
+            },
+            {
+              "name": "alcohol withdrawal delirium",
+              "value": 1
+            },
+            {
+              "name": "alcohol withdrawal seizures",
+              "value": 1
+            },
+            {
+              "name": "chemical and drug induced liver injury",
+              "value": 1
+            },
+            {
+              "name": "favism",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dermatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "autoinflammatory skin diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"amyloid neuropathies",
+              "value": 1
+            },
+            {
+              "name": "bardet-biedl syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"blood coagulation disorders",
+              "value": 1
+            },
+            {
+              "name": "cadasil",
+              "value": 1
+            },
+            {
+              "name": "cholesterol ester storage disease",
+              "value": 1
+            },
+            {
+              "name": "chromosome disorders",
+              "value": 1
+            },
+            {
+              "name": "\"dermatitis",
+              "value": 1
+            },
+            {
+              "name": "familial mediterranean fever",
+              "value": 1
+            },
+            {
+              "name": "fucosidosis",
+              "value": 1
+            },
+            {
+              "name": "\"hamartoma syndrome",
+              "value": 1
+            },
+            {
+              "name": "hidradenitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "burns",
+          "value": 1,
+          "children": [
+            {
+              "name": "smoke inhalation injury",
+              "value": 1
+            },
+            {
+              "name": "\"burns",
+              "value": 1
+            },
+            {
+              "name": "\"burns",
+              "value": 1
+            },
+            {
+              "name": "sunburn",
+              "value": 1
+            },
+            {
+              "name": "burns",
+              "value": 1
+            },
+            {
+              "name": "eye burns",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "clinical dermatology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"carcinoma",
+              "value": 1
+            },
+            {
+              "name": "\"cicatrix",
+              "value": 1
+            },
+            {
+              "name": "dermatitis herpetiformis",
+              "value": 1
+            },
+            {
+              "name": "\"dermatitis",
+              "value": 1
+            },
+            {
+              "name": "exanthema",
+              "value": 1
+            },
+            {
+              "name": "granulomatous mastitis",
+              "value": 1
+            },
+            {
+              "name": "inflammatory breast neoplasms",
+              "value": 1
+            },
+            {
+              "name": "lactation disorders",
+              "value": 1
+            },
+            {
+              "name": "linear iga bullous dermatosis",
+              "value": 1
+            },
+            {
+              "name": "sjogren-larsson syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"skin diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "cosmetic dermatology",
+          "value": 1,
+          "children": [
+            {
+              "name": "keloid",
+              "value": 1
+            },
+            {
+              "name": "cicatrix",
+              "value": 1
+            },
+            {
+              "name": "\"cicatrix",
+              "value": 1
+            },
+            {
+              "name": "lichen sclerosus et atrophicus",
+              "value": 1
+            },
+            {
+              "name": "acanthosis nigricans",
+              "value": 1
+            },
+            {
+              "name": "pigmentation disorders",
+              "value": 1
+            },
+            {
+              "name": "\"lupus erythematosus",
+              "value": 1
+            },
+            {
+              "name": "\"keratosis",
+              "value": 1
+            },
+            {
+              "name": "lentigo",
+              "value": 1
+            },
+            {
+              "name": "\"scleroderma",
+              "value": 1
+            },
+            {
+              "name": "scleromyxedema",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "dermatologic oncology/mohs-micrographic surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "dyskeratosis congenita",
+              "value": 1
+            },
+            {
+              "name": "hereditary autoinflammatory diseases",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "mucocutaneous lymph node syndrome",
+              "value": 1
+            },
+            {
+              "name": "pigmentation disorders",
+              "value": 1
+            },
+            {
+              "name": "porphyria cutanea tarda",
+              "value": 1
+            },
+            {
+              "name": "\"porphyria",
+              "value": 1
+            },
+            {
+              "name": "pseudoxanthoma elasticum",
+              "value": 1
+            },
+            {
+              "name": "sporotrichosis",
+              "value": 1
+            },
+            {
+              "name": "tinea versicolor",
+              "value": 1
+            },
+            {
+              "name": "\"albinism",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\"endocrinology",
+      "value": 1,
+      "children": [
+        {
+          "name": " diabetes & metabolism\"",
+          "value": 1,
+          "children": [
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gastroenterology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "alstrom syndrome",
+              "value": 1
+            },
+            {
+              "name": "amelogenesis imperfecta",
+              "value": 1
+            },
+            {
+              "name": "\"amino acid metabolism",
+              "value": 1
+            },
+            {
+              "name": "chromosome disorders",
+              "value": 1
+            },
+            {
+              "name": "ciliary motility disorders",
+              "value": 1
+            },
+            {
+              "name": "darier disease",
+              "value": 1
+            },
+            {
+              "name": "\"dysautonomia",
+              "value": 1
+            },
+            {
+              "name": "flatfoot",
+              "value": 1
+            },
+            {
+              "name": "hemoglobin sc disease",
+              "value": 1
+            },
+            {
+              "name": "hydrops fetalis",
+              "value": 1
+            },
+            {
+              "name": "hyperlipoproteinemia type v",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "diseases of oral cavity",
+          "value": 1,
+          "children": [
+            {
+              "name": "erythroplasia",
+              "value": 1
+            },
+            {
+              "name": "\"jaw",
+              "value": 1
+            },
+            {
+              "name": "leiomyoma",
+              "value": 1
+            },
+            {
+              "name": "myelodysplastic syndromes",
+              "value": 1
+            },
+            {
+              "name": "aggressive periodontitis",
+              "value": 1
+            },
+            {
+              "name": "cherubism",
+              "value": 1
+            },
+            {
+              "name": "dental deposits",
+              "value": 1
+            },
+            {
+              "name": "dental pulp necrosis",
+              "value": 1
+            },
+            {
+              "name": "gingival neoplasms",
+              "value": 1
+            },
+            {
+              "name": "tooth abrasion",
+              "value": 1
+            },
+            {
+              "name": "tooth loss",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "general gastroenterology",
+          "value": 1,
+          "children": [
+            {
+              "name": "deglutition disorders",
+              "value": 1
+            },
+            {
+              "name": "\"fatty liver",
+              "value": 1
+            },
+            {
+              "name": "\"hernia",
+              "value": 1
+            },
+            {
+              "name": "non-alcoholic fatty liver disease",
+              "value": 1
+            },
+            {
+              "name": "precancerous conditions",
+              "value": 1
+            },
+            {
+              "name": "pyloric stenosis",
+              "value": 1
+            },
+            {
+              "name": "\"tooth",
+              "value": 1
+            },
+            {
+              "name": "chronic periodontitis",
+              "value": 1
+            },
+            {
+              "name": "\"keratosis",
+              "value": 1
+            },
+            {
+              "name": "megacolon",
+              "value": 1
+            },
+            {
+              "name": "periodontal abscess",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "inflammatory bowel disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "anus diseases",
+              "value": 1
+            },
+            {
+              "name": "appendiceal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "barrett esophagus",
+              "value": 1
+            },
+            {
+              "name": "collagenous sprue",
+              "value": 1
+            },
+            {
+              "name": "colonic pseudo-obstruction",
+              "value": 1
+            },
+            {
+              "name": "duodenal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "gastroparesis",
+              "value": 1
+            },
+            {
+              "name": "superior mesenteric artery syndrome",
+              "value": 1
+            },
+            {
+              "name": "colitis",
+              "value": 1
+            },
+            {
+              "name": "eosinophilic esophagitis",
+              "value": 1
+            },
+            {
+              "name": "esophageal atresia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "irritable bowel syndrome",
+          "value": 1,
+          "children": [
+            {
+              "name": "anus diseases",
+              "value": 1
+            },
+            {
+              "name": "\"enterocolitis",
+              "value": 1
+            },
+            {
+              "name": "intestinal fistula",
+              "value": 1
+            },
+            {
+              "name": "malabsorption syndromes",
+              "value": 1
+            },
+            {
+              "name": "mucositis",
+              "value": 1
+            },
+            {
+              "name": "pneumatosis cystoides intestinalis",
+              "value": 1
+            },
+            {
+              "name": "steatorrhea",
+              "value": 1
+            },
+            {
+              "name": "barrett esophagus",
+              "value": 1
+            },
+            {
+              "name": "\"colitis",
+              "value": 1
+            },
+            {
+              "name": "esophageal perforation",
+              "value": 1
+            },
+            {
+              "name": "meconium ileus",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "genetics",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "arrhythmogenic right ventricular dysplasia",
+              "value": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "value": 1
+            },
+            {
+              "name": "diaphragmatic eventration",
+              "value": 1
+            },
+            {
+              "name": "\"epidermolysis bullosa",
+              "value": 1
+            },
+            {
+              "name": "fragile x syndrome",
+              "value": 1
+            },
+            {
+              "name": "gardner syndrome",
+              "value": 1
+            },
+            {
+              "name": "hemochromatosis",
+              "value": 1
+            },
+            {
+              "name": "hereditary central nervous system demyelinating diseases",
+              "value": 1
+            },
+            {
+              "name": "hirschsprung disease",
+              "value": 1
+            },
+            {
+              "name": "hyperammonemia",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hematology",
+      "value": 1,
+      "children": [
+        {
+          "name": "general hematology",
+          "value": 1,
+          "children": [
+            {
+              "name": "blood coagulation disorders",
+              "value": 1
+            },
+            {
+              "name": "chalazion",
+              "value": 1
+            },
+            {
+              "name": "cryoglobulinemia",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "lymphoma",
+              "value": 1
+            },
+            {
+              "name": "preleukemia",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "hematologic diseases",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "leukocyte disorders",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "leukemia",
+          "value": 1,
+          "children": [
+            {
+              "name": "eosinophilia",
+              "value": 1
+            },
+            {
+              "name": "hyper-igm immunodeficiency syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"sarcoidosis",
+              "value": 1
+            },
+            {
+              "name": "thalassemia",
+              "value": 1
+            },
+            {
+              "name": "wiskott-aldrich syndrome",
+              "value": 1
+            },
+            {
+              "name": "acute chest syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"blood coagulation disorders",
+              "value": 1
+            },
+            {
+              "name": "glucosephosphate dehydrogenase deficiency",
+              "value": 1
+            },
+            {
+              "name": "hematologic diseases",
+              "value": 1
+            },
+            {
+              "name": "hemophilia a",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "lymphoma",
+          "value": 1,
+          "children": [
+            {
+              "name": "anemia",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "blast crisis",
+              "value": 1
+            },
+            {
+              "name": "dyskeratosis congenita",
+              "value": 1
+            },
+            {
+              "name": "favism",
+              "value": 1
+            },
+            {
+              "name": "granuloma",
+              "value": 1
+            },
+            {
+              "name": "histiocytosis",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"lymphoma",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "multiple myeloma",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "composite lymphoma",
+              "value": 1
+            },
+            {
+              "name": "hydrops fetalis",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"lymphoma",
+              "value": 1
+            },
+            {
+              "name": "monoclonal gammopathy of undetermined significance",
+              "value": 1
+            },
+            {
+              "name": "poems syndrome",
+              "value": 1
+            },
+            {
+              "name": "thrombasthenia",
+              "value": 1
+            },
+            {
+              "name": "thrombophilia",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hepatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "general hepatology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"hypertension",
+              "value": 1
+            },
+            {
+              "name": "lymphocele",
+              "value": 1
+            },
+            {
+              "name": "pancreatic diseases",
+              "value": 1
+            },
+            {
+              "name": "deglutition disorders",
+              "value": 1
+            },
+            {
+              "name": "flatulence",
+              "value": 1
+            },
+            {
+              "name": "\"liver cirrhosis",
+              "value": 1
+            },
+            {
+              "name": "odontogenic cysts",
+              "value": 1
+            },
+            {
+              "name": "thyroglossal cyst",
+              "value": 1
+            },
+            {
+              "name": "gallbladder diseases",
+              "value": 1
+            },
+            {
+              "name": "hepatopulmonary syndrome",
+              "value": 1
+            },
+            {
+              "name": "popliteal cyst",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "transplant surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "acute kidney injury",
+              "value": 1
+            },
+            {
+              "name": "dental deposits",
+              "value": 1
+            },
+            {
+              "name": "dental pulp necrosis",
+              "value": 1
+            },
+            {
+              "name": "esophageal and gastric varices",
+              "value": 1
+            },
+            {
+              "name": "exocrine pancreatic insufficiency",
+              "value": 1
+            },
+            {
+              "name": "hepatitis",
+              "value": 1
+            },
+            {
+              "name": "intussusception",
+              "value": 1
+            },
+            {
+              "name": "\"kidney tubular necrosis",
+              "value": 1
+            },
+            {
+              "name": "melena",
+              "value": 1
+            },
+            {
+              "name": "dentinogenesis imperfecta",
+              "value": 1
+            },
+            {
+              "name": "drug-related side effects and adverse reactions",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "infectious disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "airway disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "bronchial fistula",
+              "value": 1
+            },
+            {
+              "name": "bronchiolitis",
+              "value": 1
+            },
+            {
+              "name": "\"carcinoma",
+              "value": 1
+            },
+            {
+              "name": "\"encephalomyelitis",
+              "value": 1
+            },
+            {
+              "name": "\"hepatitis c",
+              "value": 1
+            },
+            {
+              "name": "histoplasmosis",
+              "value": 1
+            },
+            {
+              "name": "hiv infections",
+              "value": 1
+            },
+            {
+              "name": "pneumococcal infections",
+              "value": 1
+            },
+            {
+              "name": "\"pneumonia",
+              "value": 1
+            },
+            {
+              "name": "\"rhinitis",
+              "value": 1
+            },
+            {
+              "name": "\"rhinitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "bacterial",
+          "value": 1,
+          "children": [
+            {
+              "name": "bordetella infections",
+              "value": 1
+            },
+            {
+              "name": "candidiasis",
+              "value": 1
+            },
+            {
+              "name": "\"candidiasis",
+              "value": 1
+            },
+            {
+              "name": "clostridium infections",
+              "value": 1
+            },
+            {
+              "name": "latent tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "\"shock",
+              "value": 1
+            },
+            {
+              "name": "\"skin diseases",
+              "value": 1
+            },
+            {
+              "name": "\"typhus",
+              "value": 1
+            },
+            {
+              "name": "bacterial infections and mycoses",
+              "value": 1
+            },
+            {
+              "name": "borrelia infections",
+              "value": 1
+            },
+            {
+              "name": "cholera",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fungal",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"aspergillosis",
+              "value": 1
+            },
+            {
+              "name": "invasive pulmonary aspergillosis",
+              "value": 1
+            },
+            {
+              "name": "latent tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "lyme neuroborreliosis",
+              "value": 1
+            },
+            {
+              "name": "tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "whooping cough",
+              "value": 1
+            },
+            {
+              "name": "bacteremia",
+              "value": 1
+            },
+            {
+              "name": "bacterial infections",
+              "value": 1
+            },
+            {
+              "name": "listeriosis",
+              "value": 1
+            },
+            {
+              "name": "lyme disease",
+              "value": 1
+            },
+            {
+              "name": "\"meningitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "mycology",
+          "value": 1,
+          "children": [
+            {
+              "name": "bacterial infections and mycoses",
+              "value": 1
+            },
+            {
+              "name": "bacteroides infections",
+              "value": 1
+            },
+            {
+              "name": "\"encephalitis",
+              "value": 1
+            },
+            {
+              "name": "legionellosis",
+              "value": 1
+            },
+            {
+              "name": "\"leishmaniasis",
+              "value": 1
+            },
+            {
+              "name": "malaria",
+              "value": 1
+            },
+            {
+              "name": "\"malaria",
+              "value": 1
+            },
+            {
+              "name": "\"meningitis",
+              "value": 1
+            },
+            {
+              "name": "paratyphoid fever",
+              "value": 1
+            },
+            {
+              "name": "\"pericarditis",
+              "value": 1
+            },
+            {
+              "name": "zygomycosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "parasitic",
+          "value": 1,
+          "children": [
+            {
+              "name": "filariasis",
+              "value": 1
+            },
+            {
+              "name": "giardiasis",
+              "value": 1
+            },
+            {
+              "name": "opportunistic infections",
+              "value": 1
+            },
+            {
+              "name": "superinfection",
+              "value": 1
+            },
+            {
+              "name": "acanthamoeba keratitis",
+              "value": 1
+            },
+            {
+              "name": "dientamoebiasis",
+              "value": 1
+            },
+            {
+              "name": "\"intestinal diseases",
+              "value": 1
+            },
+            {
+              "name": "\"leishmaniasis",
+              "value": 1
+            },
+            {
+              "name": "chagas disease",
+              "value": 1
+            },
+            {
+              "name": "malaria",
+              "value": 1
+            },
+            {
+              "name": "\"toxoplasmosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "prion diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "myelitis",
+              "value": 1
+            },
+            {
+              "name": "\"meningitis",
+              "value": 1
+            },
+            {
+              "name": "\"encephalomyelitis",
+              "value": 1
+            },
+            {
+              "name": "\"encephalomyelitis",
+              "value": 1
+            },
+            {
+              "name": "\"toxoplasmosis",
+              "value": 1
+            },
+            {
+              "name": "central nervous system fungal infections",
+              "value": 1
+            },
+            {
+              "name": "infectious encephalitis",
+              "value": 1
+            },
+            {
+              "name": "\"encephalitis",
+              "value": 1
+            },
+            {
+              "name": "lyme neuroborreliosis",
+              "value": 1
+            },
+            {
+              "name": "\"toxoplasmosis",
+              "value": 1
+            },
+            {
+              "name": "\"encephalitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "protozoal",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"pneumonia",
+              "value": 1
+            },
+            {
+              "name": "stds",
+              "value": 1
+            },
+            {
+              "name": "ascariasis",
+              "value": 1
+            },
+            {
+              "name": "\"echinococcosis",
+              "value": 1
+            },
+            {
+              "name": "leishmaniasis",
+              "value": 1
+            },
+            {
+              "name": "lice infestations",
+              "value": 1
+            },
+            {
+              "name": "\"onchocerciasis",
+              "value": 1
+            },
+            {
+              "name": "\"leishmaniasis",
+              "value": 1
+            },
+            {
+              "name": "\"toxoplasmosis",
+              "value": 1
+            },
+            {
+              "name": "trichuriasis",
+              "value": 1
+            },
+            {
+              "name": "giardiasis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "stds",
+          "value": 1,
+          "children": [
+            {
+              "name": "hiv seropositivity",
+              "value": 1
+            },
+            {
+              "name": "sexually transmitted diseases",
+              "value": 1
+            },
+            {
+              "name": "hiv-associated lipodystrophy syndrome",
+              "value": 1
+            },
+            {
+              "name": "acquired immunodeficiency syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"syphilis",
+              "value": 1
+            },
+            {
+              "name": "hiv infections",
+              "value": 1
+            },
+            {
+              "name": "aids-related complex",
+              "value": 1
+            },
+            {
+              "name": "gonorrhea",
+              "value": 1
+            },
+            {
+              "name": "aids dementia complex",
+              "value": 1
+            },
+            {
+              "name": "hiv enteropathy",
+              "value": 1
+            },
+            {
+              "name": "ophthalmia neonatorum",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "vaccines",
+          "value": 1,
+          "children": [
+            {
+              "name": "chickenpox",
+              "value": 1
+            },
+            {
+              "name": "kaposi varicelliform eruption",
+              "value": 1
+            },
+            {
+              "name": "latent tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "\"meningitis",
+              "value": 1
+            },
+            {
+              "name": "molluscum contagiosum",
+              "value": 1
+            },
+            {
+              "name": "vaccines",
+              "value": 1
+            },
+            {
+              "name": "virus diseases",
+              "value": 1
+            },
+            {
+              "name": "zygomycosis",
+              "value": 1
+            },
+            {
+              "name": "coccidioidomycosis",
+              "value": 1
+            },
+            {
+              "name": "condylomata acuminata",
+              "value": 1
+            },
+            {
+              "name": "filariasis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "viral",
+          "value": 1,
+          "children": [
+            {
+              "name": "common cold",
+              "value": 1
+            },
+            {
+              "name": "\"encephalomyelitis",
+              "value": 1
+            },
+            {
+              "name": "henipavirus infections",
+              "value": 1
+            },
+            {
+              "name": "herpesviridae infections",
+              "value": 1
+            },
+            {
+              "name": "prion diseases",
+              "value": 1
+            },
+            {
+              "name": "severe dengue",
+              "value": 1
+            },
+            {
+              "name": "togaviridae infections",
+              "value": 1
+            },
+            {
+              "name": "creutzfeldt-jakob syndrome",
+              "value": 1
+            },
+            {
+              "name": "flaviviridae infections",
+              "value": 1
+            },
+            {
+              "name": "\"hemorrhagic fever",
+              "value": 1
+            },
+            {
+              "name": "nidovirales infections",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L1",
+      "value": 1,
+      "children": [
+        {
+          "name": "L2",
+          "value": 1,
+          "children": [
+            {
+              "name": "L3 (Indication)",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "nephrology",
+      "value": 1,
+      "children": [
+        {
+          "name": "acute kidney injury",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"acidosis",
+              "value": 1
+            },
+            {
+              "name": "proteinuria",
+              "value": 1
+            },
+            {
+              "name": "ureteral calculi",
+              "value": 1
+            },
+            {
+              "name": "urologic diseases",
+              "value": 1
+            },
+            {
+              "name": "wilms tumor",
+              "value": 1
+            },
+            {
+              "name": "cystitis",
+              "value": 1
+            },
+            {
+              "name": "diurnal enuresis",
+              "value": 1
+            },
+            {
+              "name": "acute kidney injury",
+              "value": 1
+            },
+            {
+              "name": "enuresis",
+              "value": 1
+            },
+            {
+              "name": "hematuria",
+              "value": 1
+            },
+            {
+              "name": "nephritis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "kidney diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "hemospermia",
+              "value": 1
+            },
+            {
+              "name": "azotemia",
+              "value": 1
+            },
+            {
+              "name": "denys-drash syndrome",
+              "value": 1
+            },
+            {
+              "name": "kidney neoplasms",
+              "value": 1
+            },
+            {
+              "name": "pyuria",
+              "value": 1
+            },
+            {
+              "name": "solitary pulmonary nodule",
+              "value": 1
+            },
+            {
+              "name": "urinary bladder calculi",
+              "value": 1
+            },
+            {
+              "name": "bacteriuria",
+              "value": 1
+            },
+            {
+              "name": "renal insufficiency",
+              "value": 1
+            },
+            {
+              "name": "uremia",
+              "value": 1
+            },
+            {
+              "name": "\"carcinoma",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "transplant surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "hematemesis",
+              "value": 1
+            },
+            {
+              "name": "megacolon",
+              "value": 1
+            },
+            {
+              "name": "pancreatic cyst",
+              "value": 1
+            },
+            {
+              "name": "periodontitis",
+              "value": 1
+            },
+            {
+              "name": "\"protoporphyria",
+              "value": 1
+            },
+            {
+              "name": "transplant surgery",
+              "value": 1
+            },
+            {
+              "name": "vesico-ureteral reflux",
+              "value": 1
+            },
+            {
+              "name": "xerostomia",
+              "value": 1
+            },
+            {
+              "name": "\"acidosis",
+              "value": 1
+            },
+            {
+              "name": "\"esophageal spasm",
+              "value": 1
+            },
+            {
+              "name": "hemoglobinuria",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "obstetrics/gynecology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abnormalities",
+              "value": 1
+            },
+            {
+              "name": "central nervous system cysts",
+              "value": 1
+            },
+            {
+              "name": "costello syndrome",
+              "value": 1
+            },
+            {
+              "name": "cryopyrin-associated periodic syndromes",
+              "value": 1
+            },
+            {
+              "name": "encephalocele",
+              "value": 1
+            },
+            {
+              "name": "\"granulomatous disease",
+              "value": 1
+            },
+            {
+              "name": "hermanski-pudlak syndrome",
+              "value": 1
+            },
+            {
+              "name": "hyperlipidemias",
+              "value": 1
+            },
+            {
+              "name": "hyperlipoproteinemia type i",
+              "value": 1
+            },
+            {
+              "name": "hyperlipoproteinemia type v",
+              "value": 1
+            },
+            {
+              "name": "hyponatremia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "gynecology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abortion",
+              "value": 1
+            },
+            {
+              "name": "acquired immunodeficiency syndrome",
+              "value": 1
+            },
+            {
+              "name": "anovulation",
+              "value": 1
+            },
+            {
+              "name": "fetal diseases",
+              "value": 1
+            },
+            {
+              "name": "hemolytic-uremic syndrome",
+              "value": 1
+            },
+            {
+              "name": "hydronephrosis",
+              "value": 1
+            },
+            {
+              "name": "\"hypertension",
+              "value": 1
+            },
+            {
+              "name": "inappropriate adh syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"kidney failure",
+              "value": 1
+            },
+            {
+              "name": "\"nephroma",
+              "value": 1
+            },
+            {
+              "name": "oliguria",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "obstetrics",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abortion",
+              "value": 1
+            },
+            {
+              "name": "\"abortion",
+              "value": 1
+            },
+            {
+              "name": "\"adenoma",
+              "value": 1
+            },
+            {
+              "name": "atrophic vaginitis",
+              "value": 1
+            },
+            {
+              "name": "gitelman syndrome",
+              "value": 1
+            },
+            {
+              "name": "lymphangioma",
+              "value": 1
+            },
+            {
+              "name": "meconium aspiration syndrome",
+              "value": 1
+            },
+            {
+              "name": "polycystic kidney diseases",
+              "value": 1
+            },
+            {
+              "name": "urethral diseases",
+              "value": 1
+            },
+            {
+              "name": "urinary incontinence",
+              "value": 1
+            },
+            {
+              "name": "urination disorders",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "oncology",
+      "value": 1,
+      "children": [
+        {
+          "name": "breast",
+          "value": 1,
+          "children": [
+            {
+              "name": "cysts",
+              "value": 1
+            },
+            {
+              "name": "\"hydatidiform mole",
+              "value": 1
+            },
+            {
+              "name": "adenomatous polyposis coli",
+              "value": 1
+            },
+            {
+              "name": "neoplasm seeding",
+              "value": 1
+            },
+            {
+              "name": "neurofibromatosis 1",
+              "value": 1
+            },
+            {
+              "name": "\"nevus",
+              "value": 1
+            },
+            {
+              "name": "polycythemia vera",
+              "value": 1
+            },
+            {
+              "name": "lipoma",
+              "value": 1
+            },
+            {
+              "name": "tarlov cysts",
+              "value": 1
+            },
+            {
+              "name": "tuberous sclerosis",
+              "value": 1
+            },
+            {
+              "name": "\"neoplasms",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "gastrointestinal",
+          "value": 1,
+          "children": [
+            {
+              "name": "blast crisis",
+              "value": 1
+            },
+            {
+              "name": "gastrointestinal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "leukoplakia",
+              "value": 1
+            },
+            {
+              "name": "\"neoplastic syndromes",
+              "value": 1
+            },
+            {
+              "name": "parotid neoplasms",
+              "value": 1
+            },
+            {
+              "name": "primary myelofibrosis",
+              "value": 1
+            },
+            {
+              "name": "radicular cyst",
+              "value": 1
+            },
+            {
+              "name": "denys-drash syndrome",
+              "value": 1
+            },
+            {
+              "name": "glucagonoma",
+              "value": 1
+            },
+            {
+              "name": "hemangioma",
+              "value": 1
+            },
+            {
+              "name": "\"melanoma",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "genitourinary",
+          "value": 1,
+          "children": [
+            {
+              "name": "leiomyoma",
+              "value": 1
+            },
+            {
+              "name": "myasthenia gravis",
+              "value": 1
+            },
+            {
+              "name": "pancreatic cyst",
+              "value": 1
+            },
+            {
+              "name": "paraneoplastic polyneuropathy",
+              "value": 1
+            },
+            {
+              "name": "sertoli-leydig cell tumor",
+              "value": 1
+            },
+            {
+              "name": "denys-drash syndrome",
+              "value": 1
+            },
+            {
+              "name": "fallopian tube neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"hemangioma",
+              "value": 1
+            },
+            {
+              "name": "\"keratosis",
+              "value": 1
+            },
+            {
+              "name": "lymphomatoid granulomatosis",
+              "value": 1
+            },
+            {
+              "name": "multiple endocrine neoplasia type 2b",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "head and neck",
+          "value": 1,
+          "children": [
+            {
+              "name": "ganglion cysts",
+              "value": 1
+            },
+            {
+              "name": "parotid neoplasms",
+              "value": 1
+            },
+            {
+              "name": "tarlov cysts",
+              "value": 1
+            },
+            {
+              "name": "\"hemangioma",
+              "value": 1
+            },
+            {
+              "name": "polycythemia vera",
+              "value": 1
+            },
+            {
+              "name": "tongue neoplasms",
+              "value": 1
+            },
+            {
+              "name": "breast cyst",
+              "value": 1
+            },
+            {
+              "name": "carcinoma in situ",
+              "value": 1
+            },
+            {
+              "name": "myeloproliferative disorders",
+              "value": 1
+            },
+            {
+              "name": "neoplasm seeding",
+              "value": 1
+            },
+            {
+              "name": "\"neoplastic cells",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "kidney",
+          "value": 1,
+          "children": [
+            {
+              "name": "carcinoid tumor",
+              "value": 1
+            },
+            {
+              "name": "\"mastocytosis",
+              "value": 1
+            },
+            {
+              "name": "\"carcinoma",
+              "value": 1
+            },
+            {
+              "name": "leiomyoma",
+              "value": 1
+            },
+            {
+              "name": "monoclonal gammopathy of undetermined significance",
+              "value": 1
+            },
+            {
+              "name": "brenner tumor",
+              "value": 1
+            },
+            {
+              "name": "fallopian tube neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"prostatic neoplasms",
+              "value": 1
+            },
+            {
+              "name": "urinary bladder neoplasms",
+              "value": 1
+            },
+            {
+              "name": "urticaria pigmentosa",
+              "value": 1
+            },
+            {
+              "name": "\"genital neoplasms",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "lung",
+          "value": 1,
+          "children": [
+            {
+              "name": "bronchi",
+              "value": 1
+            },
+            {
+              "name": "bronchial neoplasms",
+              "value": 1
+            },
+            {
+              "name": "li-fraumeni syndrome",
+              "value": 1
+            },
+            {
+              "name": "lipoma",
+              "value": 1
+            },
+            {
+              "name": "lymphatic metastasis",
+              "value": 1
+            },
+            {
+              "name": "peutz-jeghers syndrome",
+              "value": 1
+            },
+            {
+              "name": "blast crisis",
+              "value": 1
+            },
+            {
+              "name": "castleman disease",
+              "value": 1
+            },
+            {
+              "name": "\"melanoma",
+              "value": 1
+            },
+            {
+              "name": "multiple endocrine neoplasia",
+              "value": 1
+            },
+            {
+              "name": "multiple endocrine neoplasia type 1",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "musculoskeletal system",
+          "value": 1,
+          "children": [
+            {
+              "name": "choledochal cyst",
+              "value": 1
+            },
+            {
+              "name": "dermoid cyst",
+              "value": 1
+            },
+            {
+              "name": "ganglion cysts",
+              "value": 1
+            },
+            {
+              "name": "birt-hogg-dube syndrome",
+              "value": 1
+            },
+            {
+              "name": "epidermal cyst",
+              "value": 1
+            },
+            {
+              "name": "\"exostoses",
+              "value": 1
+            },
+            {
+              "name": "gardner syndrome",
+              "value": 1
+            },
+            {
+              "name": "hemangioma",
+              "value": 1
+            },
+            {
+              "name": "\"colorectal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "denys-drash syndrome",
+              "value": 1
+            },
+            {
+              "name": "lymphocele",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "nervous system",
+          "value": 1,
+          "children": [
+            {
+              "name": "central nervous system neoplasms",
+              "value": 1
+            },
+            {
+              "name": "gardner syndrome",
+              "value": 1
+            },
+            {
+              "name": "lambert-eaton myasthenic syndrome",
+              "value": 1
+            },
+            {
+              "name": "myelodysplastic syndromes",
+              "value": 1
+            },
+            {
+              "name": "\"neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"bone cysts",
+              "value": 1
+            },
+            {
+              "name": "ganglion cysts",
+              "value": 1
+            },
+            {
+              "name": "hereditary breast and ovarian cancer syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "\"mastocytosis",
+              "value": 1
+            },
+            {
+              "name": "multiple endocrine neoplasia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "neuroendocrine",
+          "value": 1,
+          "children": [
+            {
+              "name": "neoplasm micrometastasis",
+              "value": 1
+            },
+            {
+              "name": "\"neoplasm recurrence",
+              "value": 1
+            },
+            {
+              "name": "basal cell nevus syndrome",
+              "value": 1
+            },
+            {
+              "name": "paraneoplastic polyneuropathy",
+              "value": 1
+            },
+            {
+              "name": "dysplastic nevus syndrome",
+              "value": 1
+            },
+            {
+              "name": "peutz-jeghers syndrome",
+              "value": 1
+            },
+            {
+              "name": "wagr syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"melanoma",
+              "value": 1
+            },
+            {
+              "name": "multiple endocrine neoplasia type 2b",
+              "value": 1
+            },
+            {
+              "name": "\"myelitis",
+              "value": 1
+            },
+            {
+              "name": "\"neoplasms",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "skin",
+          "value": 1,
+          "children": [
+            {
+              "name": "alopecia",
+              "value": 1
+            },
+            {
+              "name": "anti-n-methyl-d-aspartate receptor encephalitis",
+              "value": 1
+            },
+            {
+              "name": "\"arthritis",
+              "value": 1
+            },
+            {
+              "name": "cutis laxa",
+              "value": 1
+            },
+            {
+              "name": "darier disease",
+              "value": 1
+            },
+            {
+              "name": "\"dermatitis",
+              "value": 1
+            },
+            {
+              "name": "granulomatous mastitis",
+              "value": 1
+            },
+            {
+              "name": "\"histiocytosis",
+              "value": 1
+            },
+            {
+              "name": "ichthyosis vulgaris",
+              "value": 1
+            },
+            {
+              "name": "\"leukemia",
+              "value": 1
+            },
+            {
+              "name": "lipodystrophy",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "solid tumor",
+          "value": 1,
+          "children": [
+            {
+              "name": "adenomatous polyposis coli",
+              "value": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "value": 1
+            },
+            {
+              "name": "leydig cell tumor",
+              "value": 1
+            },
+            {
+              "name": "lymphatic metastasis",
+              "value": 1
+            },
+            {
+              "name": "prostatic neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"prostatic neoplasms",
+              "value": 1
+            },
+            {
+              "name": "urachal cyst",
+              "value": 1
+            },
+            {
+              "name": "castleman disease",
+              "value": 1
+            },
+            {
+              "name": "endometrial stromal tumors",
+              "value": 1
+            },
+            {
+              "name": "\"bone cysts",
+              "value": 1
+            },
+            {
+              "name": "\"carcinoma",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ophthalmology",
+      "value": 1,
+      "children": [
+        {
+          "name": "cornea",
+          "value": 1,
+          "children": [
+            {
+              "name": "fuchs' endothelial dystrophy",
+              "value": 1
+            },
+            {
+              "name": "corneal edema",
+              "value": 1
+            },
+            {
+              "name": "corneal ulcer",
+              "value": 1
+            },
+            {
+              "name": "corneal wavefront aberration",
+              "value": 1
+            },
+            {
+              "name": "corneal opacity",
+              "value": 1
+            },
+            {
+              "name": "corneal perforation",
+              "value": 1
+            },
+            {
+              "name": "\"keratitis",
+              "value": 1
+            },
+            {
+              "name": "trachoma",
+              "value": 1
+            },
+            {
+              "name": "keratoconjunctivitis sicca",
+              "value": 1
+            },
+            {
+              "name": "iridocyclitis",
+              "value": 1
+            },
+            {
+              "name": "\"corneal dystrophies",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "eye diseases & adnexa",
+          "value": 1,
+          "children": [
+            {
+              "name": "anisometropia",
+              "value": 1
+            },
+            {
+              "name": "blepharoptosis",
+              "value": 1
+            },
+            {
+              "name": "\"conjunctivitis",
+              "value": 1
+            },
+            {
+              "name": "\"glaucoma",
+              "value": 1
+            },
+            {
+              "name": "keratoconjunctivitis",
+              "value": 1
+            },
+            {
+              "name": "\"mastocytosis",
+              "value": 1
+            },
+            {
+              "name": "meningeal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "ocular hypertension",
+              "value": 1
+            },
+            {
+              "name": "retinitis",
+              "value": 1
+            },
+            {
+              "name": "toxic optic neuropathy",
+              "value": 1
+            },
+            {
+              "name": "urachal cyst",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "neuro-ophthalmology",
+          "value": 1,
+          "children": [
+            {
+              "name": "hyperopia",
+              "value": 1
+            },
+            {
+              "name": "anisocoria",
+              "value": 1
+            },
+            {
+              "name": "\"ophthalmoplegia",
+              "value": 1
+            },
+            {
+              "name": "\"optic atrophy",
+              "value": 1
+            },
+            {
+              "name": "papilledema",
+              "value": 1
+            },
+            {
+              "name": "\"supranuclear palsy",
+              "value": 1
+            },
+            {
+              "name": "kearns-sayre syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"nystagmus",
+              "value": 1
+            },
+            {
+              "name": "pupil disorders",
+              "value": 1
+            },
+            {
+              "name": "aniseikonia",
+              "value": 1
+            },
+            {
+              "name": "mydriasis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "oculoplastics",
+          "value": 1,
+          "children": [
+            {
+              "name": "ectropion",
+              "value": 1
+            },
+            {
+              "name": "graves ophthalmopathy",
+              "value": 1
+            },
+            {
+              "name": "thyroid disease",
+              "value": 1
+            },
+            {
+              "name": "thyroid dysgenesis",
+              "value": 1
+            },
+            {
+              "name": "trichiasis",
+              "value": 1
+            },
+            {
+              "name": "anisocoria",
+              "value": 1
+            },
+            {
+              "name": "blepharoptosis",
+              "value": 1
+            },
+            {
+              "name": "thyroid diseases",
+              "value": 1
+            },
+            {
+              "name": "hashimoto disease",
+              "value": 1
+            },
+            {
+              "name": "lacrimal apparatus diseases",
+              "value": 1
+            },
+            {
+              "name": "graves disease",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "optometry",
+          "value": 1,
+          "children": [
+            {
+              "name": "cataract",
+              "value": 1
+            },
+            {
+              "name": "color vision defects",
+              "value": 1
+            },
+            {
+              "name": "diplopia",
+              "value": 1
+            },
+            {
+              "name": "miosis",
+              "value": 1
+            },
+            {
+              "name": "refractive errors",
+              "value": 1
+            },
+            {
+              "name": "blepharitis",
+              "value": 1
+            },
+            {
+              "name": "corneal edema",
+              "value": 1
+            },
+            {
+              "name": "exophthalmos",
+              "value": 1
+            },
+            {
+              "name": "exotropia",
+              "value": 1
+            },
+            {
+              "name": "blepharoptosis",
+              "value": 1
+            },
+            {
+              "name": "conjunctival diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "pediatric ophthalmology",
+          "value": 1,
+          "children": [
+            {
+              "name": "color vision defects",
+              "value": 1
+            },
+            {
+              "name": "hemianopsia",
+              "value": 1
+            },
+            {
+              "name": "pterygium",
+              "value": 1
+            },
+            {
+              "name": "fuchs' endothelial dystrophy",
+              "value": 1
+            },
+            {
+              "name": "photophobia",
+              "value": 1
+            },
+            {
+              "name": "stargardt disease",
+              "value": 1
+            },
+            {
+              "name": "vision disorders",
+              "value": 1
+            },
+            {
+              "name": "ectropion",
+              "value": 1
+            },
+            {
+              "name": "retinal hemorrhage",
+              "value": 1
+            },
+            {
+              "name": "chalazion",
+              "value": 1
+            },
+            {
+              "name": "lacrimal apparatus diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "retina",
+          "value": 1,
+          "children": [
+            {
+              "name": "choroiditis",
+              "value": 1
+            },
+            {
+              "name": "walker-warburg syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"myelitis",
+              "value": 1
+            },
+            {
+              "name": "albinism",
+              "value": 1
+            },
+            {
+              "name": "cone dystrophy",
+              "value": 1
+            },
+            {
+              "name": "retina",
+              "value": 1
+            },
+            {
+              "name": "retinitis pigmentosa",
+              "value": 1
+            },
+            {
+              "name": "amblyopia",
+              "value": 1
+            },
+            {
+              "name": "aniridia",
+              "value": 1
+            },
+            {
+              "name": "choroideremia",
+              "value": 1
+            },
+            {
+              "name": "limbic encephalitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "uveitis",
+          "value": 1,
+          "children": [
+            {
+              "name": "choroid neoplasms",
+              "value": 1
+            },
+            {
+              "name": "corneal edema",
+              "value": 1
+            },
+            {
+              "name": "wagr syndrome",
+              "value": 1
+            },
+            {
+              "name": "white dot syndromes",
+              "value": 1
+            },
+            {
+              "name": "keratoconjunctivitis",
+              "value": 1
+            },
+            {
+              "name": "panuveitis",
+              "value": 1
+            },
+            {
+              "name": "\"uveitis",
+              "value": 1
+            },
+            {
+              "name": "choroideremia",
+              "value": 1
+            },
+            {
+              "name": "macular degeneration",
+              "value": 1
+            },
+            {
+              "name": "retinal diseases",
+              "value": 1
+            },
+            {
+              "name": "choroiditis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "glaucoma",
+          "value": 1,
+          "children": [
+            {
+              "name": "low tension glaucoma",
+              "value": 1
+            },
+            {
+              "name": "\"glaucoma",
+              "value": 1
+            },
+            {
+              "name": "\"glaucoma",
+              "value": 1
+            },
+            {
+              "name": "glaucoma",
+              "value": 1
+            },
+            {
+              "name": "\"glaucoma",
+              "value": 1
+            },
+            {
+              "name": "ocular hypertension",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "oral and maxillofacial surgery",
+      "value": 1,
+      "children": [
+        {
+          "name": "oral and maxillofacial",
+          "value": 1,
+          "children": [
+            {
+              "name": "dentin sensitivity",
+              "value": 1
+            },
+            {
+              "name": "facial nerve diseases",
+              "value": 1
+            },
+            {
+              "name": "gingival neoplasms",
+              "value": 1
+            },
+            {
+              "name": "hypopharyngeal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "laryngeal neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"mouth",
+              "value": 1
+            },
+            {
+              "name": "mucositis",
+              "value": 1
+            },
+            {
+              "name": "odontogenic cysts",
+              "value": 1
+            },
+            {
+              "name": "parotid neoplasms",
+              "value": 1
+            },
+            {
+              "name": "squamous intraepithelial lesions of the cervix",
+              "value": 1
+            },
+            {
+              "name": "\"stomatitis",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "orthopedic surgery/podiatry",
+      "value": 1,
+      "children": [
+        {
+          "name": "adult reconstructive orthopedic surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "abdominoplasty",
+              "value": 1
+            },
+            {
+              "name": "amputation",
+              "value": 1
+            },
+            {
+              "name": "behcet syndrome",
+              "value": 1
+            },
+            {
+              "name": "mixed connective tissue disease",
+              "value": 1
+            },
+            {
+              "name": "\"osteoarthritis",
+              "value": 1
+            },
+            {
+              "name": "spasm",
+              "value": 1
+            },
+            {
+              "name": "\"arthropathy",
+              "value": 1
+            },
+            {
+              "name": "fracture dislocation",
+              "value": 1
+            },
+            {
+              "name": "myalgia",
+              "value": 1
+            },
+            {
+              "name": "tissue expansion",
+              "value": 1
+            },
+            {
+              "name": "bone cysts",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "adrenogenital syndrome",
+              "value": 1
+            },
+            {
+              "name": "alagille syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "arthrogryposis",
+              "value": 1
+            },
+            {
+              "name": "biotinidase deficiency",
+              "value": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "value": 1
+            },
+            {
+              "name": "carney complex",
+              "value": 1
+            },
+            {
+              "name": "charge syndrome",
+              "value": 1
+            },
+            {
+              "name": "cryopyrin-associated periodic syndromes",
+              "value": 1
+            },
+            {
+              "name": "developmental dysplasia of the hip",
+              "value": 1
+            },
+            {
+              "name": "\"ductus arteriosus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "diseases of the musculoskeletal system and connective tissue",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"bone diseases",
+              "value": 1
+            },
+            {
+              "name": "familial hypophosphatemic rickets",
+              "value": 1
+            },
+            {
+              "name": "\"fasciitis",
+              "value": 1
+            },
+            {
+              "name": "funnel chest",
+              "value": 1
+            },
+            {
+              "name": "holoprosencephaly",
+              "value": 1
+            },
+            {
+              "name": "low back pain",
+              "value": 1
+            },
+            {
+              "name": "mastoiditis",
+              "value": 1
+            },
+            {
+              "name": "musculoskeletal abnormalities",
+              "value": 1
+            },
+            {
+              "name": "osteophyte",
+              "value": 1
+            },
+            {
+              "name": "tenosynovitis",
+              "value": 1
+            },
+            {
+              "name": "\"arthritis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "disorders of bone density and structure",
+          "value": 1,
+          "children": [
+            {
+              "name": "axial spondyloarthritis",
+              "value": 1
+            },
+            {
+              "name": "congenital hypothyroidism",
+              "value": 1
+            },
+            {
+              "name": "goldenhar syndrome",
+              "value": 1
+            },
+            {
+              "name": "orbital neoplasms",
+              "value": 1
+            },
+            {
+              "name": "osteochondritis",
+              "value": 1
+            },
+            {
+              "name": "osteolysis",
+              "value": 1
+            },
+            {
+              "name": "osteomyelitis",
+              "value": 1
+            },
+            {
+              "name": "spondylolisthesis",
+              "value": 1
+            },
+            {
+              "name": "\"tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "\"chondrodysplasia punctata",
+              "value": 1
+            },
+            {
+              "name": "craniosynostoses",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "foot and ankle surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "hallux limitus",
+              "value": 1
+            },
+            {
+              "name": "hallux varus",
+              "value": 1
+            },
+            {
+              "name": "\"fasciitis",
+              "value": 1
+            },
+            {
+              "name": "bunion",
+              "value": 1
+            },
+            {
+              "name": "metatarsalgia",
+              "value": 1
+            },
+            {
+              "name": "polydactyly",
+              "value": 1
+            },
+            {
+              "name": "joint diseases",
+              "value": 1
+            },
+            {
+              "name": "foot and ankle surgery",
+              "value": 1
+            },
+            {
+              "name": "gastroschisis",
+              "value": 1
+            },
+            {
+              "name": "shoulder pain",
+              "value": 1
+            },
+            {
+              "name": "\"fibromatosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "orthopedic surgery of the spine",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"arthritis",
+              "value": 1
+            },
+            {
+              "name": "goldenhar syndrome",
+              "value": 1
+            },
+            {
+              "name": "spinal diseases",
+              "value": 1
+            },
+            {
+              "name": "tarsal coalition",
+              "value": 1
+            },
+            {
+              "name": "\"bone diseases",
+              "value": 1
+            },
+            {
+              "name": "\"fracture fixation",
+              "value": 1
+            },
+            {
+              "name": "low back pain",
+              "value": 1
+            },
+            {
+              "name": "orofaciodigital syndromes",
+              "value": 1
+            },
+            {
+              "name": "\"osteoarthritis",
+              "value": 1
+            },
+            {
+              "name": "spondylolysis",
+              "value": 1
+            },
+            {
+              "name": "tenotomy",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "orthopedic trauma",
+          "value": 1,
+          "children": [
+            {
+              "name": "anaphylaxis",
+              "value": 1
+            },
+            {
+              "name": "arthralgia",
+              "value": 1
+            },
+            {
+              "name": "bone disease",
+              "value": 1
+            },
+            {
+              "name": "kashin-beck disease",
+              "value": 1
+            },
+            {
+              "name": "micrognathism",
+              "value": 1
+            },
+            {
+              "name": "trigger finger disorder",
+              "value": 1
+            },
+            {
+              "name": "wounds and injuries",
+              "value": 1
+            },
+            {
+              "name": "cryopyrin-associated periodic syndromes",
+              "value": 1
+            },
+            {
+              "name": "drug hypersensitivity",
+              "value": 1
+            },
+            {
+              "name": "dry socket",
+              "value": 1
+            },
+            {
+              "name": "fibrous dysplasia of bone",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "osteopathies",
+          "value": 1,
+          "children": [
+            {
+              "name": "marfan syndrome",
+              "value": 1
+            },
+            {
+              "name": "mucolipidoses",
+              "value": 1
+            },
+            {
+              "name": "axial spondyloarthritis",
+              "value": 1
+            },
+            {
+              "name": "osteochondritis",
+              "value": 1
+            },
+            {
+              "name": "scoliosis",
+              "value": 1
+            },
+            {
+              "name": "spondylosis",
+              "value": 1
+            },
+            {
+              "name": "bisphosphonate-associated osteonecrosis of the jaw",
+              "value": 1
+            },
+            {
+              "name": "bone resorption",
+              "value": 1
+            },
+            {
+              "name": "congenital hypothyroidism",
+              "value": 1
+            },
+            {
+              "name": "jaw neoplasms",
+              "value": 1
+            },
+            {
+              "name": "orbital neoplasms",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "pediatric orthopedic surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "bradycardia",
+              "value": 1
+            },
+            {
+              "name": "enthesopathy",
+              "value": 1
+            },
+            {
+              "name": "\"fasciitis",
+              "value": 1
+            },
+            {
+              "name": "fever of unknown origin",
+              "value": 1
+            },
+            {
+              "name": "gait ataxia",
+              "value": 1
+            },
+            {
+              "name": "\"hernias",
+              "value": 1
+            },
+            {
+              "name": "jaundice",
+              "value": 1
+            },
+            {
+              "name": "joint diseases",
+              "value": 1
+            },
+            {
+              "name": "metatarsalgia",
+              "value": 1
+            },
+            {
+              "name": "muscular diseases",
+              "value": 1
+            },
+            {
+              "name": "myositis ossificans",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sports medicine",
+          "value": 1,
+          "children": [
+            {
+              "name": "dermatomyositis",
+              "value": 1
+            },
+            {
+              "name": "fibroma",
+              "value": 1
+            },
+            {
+              "name": "gout",
+              "value": 1
+            },
+            {
+              "name": "martial arts",
+              "value": 1
+            },
+            {
+              "name": "\"nose deformities",
+              "value": 1
+            },
+            {
+              "name": "polyarteritis nodosa",
+              "value": 1
+            },
+            {
+              "name": "scoliosis",
+              "value": 1
+            },
+            {
+              "name": "tendinopathy",
+              "value": 1
+            },
+            {
+              "name": "bone diseases",
+              "value": 1
+            },
+            {
+              "name": "drug resistance",
+              "value": 1
+            },
+            {
+              "name": "hypersensitivity",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "hand surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"exostoses",
+              "value": 1
+            },
+            {
+              "name": "joint diseases",
+              "value": 1
+            },
+            {
+              "name": "shoulder pain",
+              "value": 1
+            },
+            {
+              "name": "\"hernia",
+              "value": 1
+            },
+            {
+              "name": "mandibulofacial dysostosis",
+              "value": 1
+            },
+            {
+              "name": "hand surgery",
+              "value": 1
+            },
+            {
+              "name": "arthralgia",
+              "value": 1
+            },
+            {
+              "name": "osteopetrosis",
+              "value": 1
+            },
+            {
+              "name": "craniosynostoses",
+              "value": 1
+            },
+            {
+              "name": "joint loose bodies",
+              "value": 1
+            },
+            {
+              "name": "pectus carinatum",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "other - patient risk factors",
+      "value": 1,
+      "children": [
+        {
+          "name": "critical care - external causes of morbidity",
+          "value": 1,
+          "children": [
+            {
+              "name": "swimming",
+              "value": 1
+            },
+            {
+              "name": "accidental falls",
+              "value": 1
+            },
+            {
+              "name": "martial arts",
+              "value": 1
+            },
+            {
+              "name": "wrestling",
+              "value": 1
+            },
+            {
+              "name": "running",
+              "value": 1
+            },
+            {
+              "name": "\"wounds",
+              "value": 1
+            },
+            {
+              "name": "tennis",
+              "value": 1
+            },
+            {
+              "name": "rugby",
+              "value": 1
+            },
+            {
+              "name": "dancing",
+              "value": 1
+            },
+            {
+              "name": "basketball",
+              "value": 1
+            },
+            {
+              "name": "soccer",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "factors influencing health status and contact with health services",
+          "value": 1,
+          "children": [
+            {
+              "name": "drug resistance",
+              "value": 1
+            },
+            {
+              "name": "pregnancy",
+              "value": 1
+            },
+            {
+              "name": "sleep deprivation",
+              "value": 1
+            },
+            {
+              "name": "latent tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "factors influencing health status and contact with health services",
+              "value": 1
+            },
+            {
+              "name": "food insecurity",
+              "value": 1
+            },
+            {
+              "name": "family conflict",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "otolaryngology",
+      "value": 1,
+      "children": [
+        {
+          "name": "audiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "ear neoplasms",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "\"auditory diseases",
+              "value": 1
+            },
+            {
+              "name": "ear diseases",
+              "value": 1
+            },
+            {
+              "name": "hyperacusis",
+              "value": 1
+            },
+            {
+              "name": "herpes zoster oticus",
+              "value": 1
+            },
+            {
+              "name": "auditory perceptual disorders",
+              "value": 1
+            },
+            {
+              "name": "deaf-blind disorders",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "otitis externa",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "acidosis",
+              "value": 1
+            },
+            {
+              "name": "alpha-mannosidosis",
+              "value": 1
+            },
+            {
+              "name": "aspartylglucosaminuria",
+              "value": 1
+            },
+            {
+              "name": "beckwith-wiedemann syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"brain diseases",
+              "value": 1
+            },
+            {
+              "name": "brugada syndrome",
+              "value": 1
+            },
+            {
+              "name": "clubfoot",
+              "value": 1
+            },
+            {
+              "name": "epidermolysis bullosa simplex",
+              "value": 1
+            },
+            {
+              "name": "fragile x syndrome",
+              "value": 1
+            },
+            {
+              "name": "fused kidney",
+              "value": 1
+            },
+            {
+              "name": "\"genetic diseases",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "diseases of ear",
+          "value": 1,
+          "children": [
+            {
+              "name": "congenital microtia",
+              "value": 1
+            },
+            {
+              "name": "endolymphatic hydrops",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "neurofibromatosis 2",
+              "value": 1
+            },
+            {
+              "name": "otitis externa",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "labyrinthitis",
+              "value": 1
+            },
+            {
+              "name": "otitis media with effusion",
+              "value": 1
+            },
+            {
+              "name": "\"cholesteatoma",
+              "value": 1
+            },
+            {
+              "name": "hyperacusis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "nose",
+          "value": 1,
+          "children": [
+            {
+              "name": "cervical intraepithelial neoplasia",
+              "value": 1
+            },
+            {
+              "name": "paraproteinemias",
+              "value": 1
+            },
+            {
+              "name": "pulmonary eosinophilia",
+              "value": 1
+            },
+            {
+              "name": "\"rhinitis",
+              "value": 1
+            },
+            {
+              "name": "lymphangioma",
+              "value": 1
+            },
+            {
+              "name": "myeloproliferative disorders",
+              "value": 1
+            },
+            {
+              "name": "nasal obstruction",
+              "value": 1
+            },
+            {
+              "name": "bronchiectasis",
+              "value": 1
+            },
+            {
+              "name": "\"influenza",
+              "value": 1
+            },
+            {
+              "name": "meningioma",
+              "value": 1
+            },
+            {
+              "name": "\"rhinitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "otology & neurotology",
+          "value": 1,
+          "children": [
+            {
+              "name": "benign paroxysmal positional vertigo",
+              "value": 1
+            },
+            {
+              "name": "\"brain hemorrhage",
+              "value": 1
+            },
+            {
+              "name": "\"hearing loss",
+              "value": 1
+            },
+            {
+              "name": "herpes zoster oticus",
+              "value": 1
+            },
+            {
+              "name": "language development disorders",
+              "value": 1
+            },
+            {
+              "name": "nelson syndrome",
+              "value": 1
+            },
+            {
+              "name": "neuroaspergillosis",
+              "value": 1
+            },
+            {
+              "name": "pantothenate kinase-associated neurodegeneration",
+              "value": 1
+            },
+            {
+              "name": "stiff-person syndrome",
+              "value": 1
+            },
+            {
+              "name": "basal ganglia hemorrhage",
+              "value": 1
+            },
+            {
+              "name": "canavan disease",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "throat",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"adenoma",
+              "value": 1
+            },
+            {
+              "name": "deglutition disorders",
+              "value": 1
+            },
+            {
+              "name": "laryngismus",
+              "value": 1
+            },
+            {
+              "name": "\"mesothelioma",
+              "value": 1
+            },
+            {
+              "name": "polycythemia vera",
+              "value": 1
+            },
+            {
+              "name": "hemangioma",
+              "value": 1
+            },
+            {
+              "name": "carcinoid tumor",
+              "value": 1
+            },
+            {
+              "name": "\"mastocytosis",
+              "value": 1
+            },
+            {
+              "name": "common cold",
+              "value": 1
+            },
+            {
+              "name": "nasal polyps",
+              "value": 1
+            },
+            {
+              "name": "nasal septal perforation",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "psychiatry & neurology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "agenesis of corpus callosum",
+              "value": 1
+            },
+            {
+              "name": "\"aortic stenosis",
+              "value": 1
+            },
+            {
+              "name": "chediak-higashi syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"chondrodysplasia punctata",
+              "value": 1
+            },
+            {
+              "name": "congenitally corrected transposition of the great arteries",
+              "value": 1
+            },
+            {
+              "name": "ebstein anomaly",
+              "value": 1
+            },
+            {
+              "name": "ectopia lentis",
+              "value": 1
+            },
+            {
+              "name": "esophageal atresia",
+              "value": 1
+            },
+            {
+              "name": "holoprosencephaly",
+              "value": 1
+            },
+            {
+              "name": "hyperhomocysteinemia",
+              "value": 1
+            },
+            {
+              "name": "hypophosphatasia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "neurology",
+          "value": 1,
+          "children": [
+            {
+              "name": "aphasia",
+              "value": 1
+            },
+            {
+              "name": "carcinoid tumor",
+              "value": 1
+            },
+            {
+              "name": "dermoid cyst",
+              "value": 1
+            },
+            {
+              "name": "disorders of excessive somnolence",
+              "value": 1
+            },
+            {
+              "name": "facial nerve diseases",
+              "value": 1
+            },
+            {
+              "name": "meningioma",
+              "value": 1
+            },
+            {
+              "name": "\"mesothelioma",
+              "value": 1
+            },
+            {
+              "name": "odontogenic cysts",
+              "value": 1
+            },
+            {
+              "name": "post-traumatic headache",
+              "value": 1
+            },
+            {
+              "name": "proteus syndrome",
+              "value": 1
+            },
+            {
+              "name": "sleep deprivation",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "psychiatry",
+          "value": 1,
+          "children": [
+            {
+              "name": "aids dementia complex",
+              "value": 1
+            },
+            {
+              "name": "alcohol-related disorders",
+              "value": 1
+            },
+            {
+              "name": "dancing",
+              "value": 1
+            },
+            {
+              "name": "dementia",
+              "value": 1
+            },
+            {
+              "name": "globus sensation",
+              "value": 1
+            },
+            {
+              "name": "neurocognitive disorders",
+              "value": 1
+            },
+            {
+              "name": "post-concussion syndrome",
+              "value": 1
+            },
+            {
+              "name": "running",
+              "value": 1
+            },
+            {
+              "name": "sleep wake disorders",
+              "value": 1
+            },
+            {
+              "name": "unconsciousness",
+              "value": 1
+            },
+            {
+              "name": "alcohol withdrawal seizures",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pulmonary disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "airway disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"eye infections",
+              "value": 1
+            },
+            {
+              "name": "familial primary pulmonary hypertension",
+              "value": 1
+            },
+            {
+              "name": "\"fatigue syndrome",
+              "value": 1
+            },
+            {
+              "name": "haemophilus infections",
+              "value": 1
+            },
+            {
+              "name": "hepatitis b",
+              "value": 1
+            },
+            {
+              "name": "hiv enteropathy",
+              "value": 1
+            },
+            {
+              "name": "kaposi varicelliform eruption",
+              "value": 1
+            },
+            {
+              "name": "nidovirales infections",
+              "value": 1
+            },
+            {
+              "name": "\"pneumonia",
+              "value": 1
+            },
+            {
+              "name": "\"pneumonia",
+              "value": 1
+            },
+            {
+              "name": "pulmonary eosinophilia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "alveoli diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "hyaline membrane disease",
+              "value": 1
+            },
+            {
+              "name": "hypoventilation",
+              "value": 1
+            },
+            {
+              "name": "mouth breathing",
+              "value": 1
+            },
+            {
+              "name": "\"influenza",
+              "value": 1
+            },
+            {
+              "name": "pulmonary alveolar proteinosis",
+              "value": 1
+            },
+            {
+              "name": "\"tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "bronchitis",
+              "value": 1
+            },
+            {
+              "name": "healthcare-associated pneumonia",
+              "value": 1
+            },
+            {
+              "name": "pleurisy",
+              "value": 1
+            },
+            {
+              "name": "respiration disorders",
+              "value": 1
+            },
+            {
+              "name": "respiratory insufficiency",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "general pulmonary disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "cough",
+              "value": 1
+            },
+            {
+              "name": "epistaxis",
+              "value": 1
+            },
+            {
+              "name": "maxillary sinusitis",
+              "value": 1
+            },
+            {
+              "name": "peritonsillar abscess",
+              "value": 1
+            },
+            {
+              "name": "bradycardia",
+              "value": 1
+            },
+            {
+              "name": "mediastinitis",
+              "value": 1
+            },
+            {
+              "name": "\"myelitis",
+              "value": 1
+            },
+            {
+              "name": "\"pneumonia",
+              "value": 1
+            },
+            {
+              "name": "sneezing",
+              "value": 1
+            },
+            {
+              "name": "transfusion-related acute lung injury",
+              "value": 1
+            },
+            {
+              "name": "bronchitis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "interstitium disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "asbestosis",
+              "value": 1
+            },
+            {
+              "name": "pulmonary arterial hypertension",
+              "value": 1
+            },
+            {
+              "name": "bird fancier's lung",
+              "value": 1
+            },
+            {
+              "name": "lung neoplasms",
+              "value": 1
+            },
+            {
+              "name": "pulmonary atelectasis",
+              "value": 1
+            },
+            {
+              "name": "pulmonary embolism",
+              "value": 1
+            },
+            {
+              "name": "\"cystic adenomatoid malformation of lung",
+              "value": 1
+            },
+            {
+              "name": "blastomycosis",
+              "value": 1
+            },
+            {
+              "name": "bronchopneumonia",
+              "value": 1
+            },
+            {
+              "name": "transfusion-related acute lung injury",
+              "value": 1
+            },
+            {
+              "name": "acute lung injury",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "vessel disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"alveolitis",
+              "value": 1
+            },
+            {
+              "name": "carotid stenosis",
+              "value": 1
+            },
+            {
+              "name": "cogan syndrome",
+              "value": 1
+            },
+            {
+              "name": "coronary occlusion",
+              "value": 1
+            },
+            {
+              "name": "\"embolism",
+              "value": 1
+            },
+            {
+              "name": "\"hypertension",
+              "value": 1
+            },
+            {
+              "name": "\"lung diseases",
+              "value": 1
+            },
+            {
+              "name": "scurvy",
+              "value": 1
+            },
+            {
+              "name": "\"tuberculosis",
+              "value": 1
+            },
+            {
+              "name": "venous insufficiency",
+              "value": 1
+            },
+            {
+              "name": "angiodysplasia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "\"congenital malformations",
+          "value": 1,
+          "children": [
+            {
+              "name": " deformations",
+              "value": 1
+            },
+            {
+              "name": " deformations",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rare disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "alstrom syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "arrhythmogenic right ventricular dysplasia",
+              "value": 1
+            },
+            {
+              "name": "atypical squamous cells of the cervix",
+              "value": 1
+            },
+            {
+              "name": "beta-thalassemia",
+              "value": 1
+            },
+            {
+              "name": "cherubism",
+              "value": 1
+            },
+            {
+              "name": "congenital heart disease",
+              "value": 1
+            },
+            {
+              "name": "\"eye diseases",
+              "value": 1
+            },
+            {
+              "name": "glycogen storage disease type i",
+              "value": 1
+            },
+            {
+              "name": "\"hand deformities",
+              "value": 1
+            },
+            {
+              "name": "hemochromatosis",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rheumatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "autoimmune disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "digeorge syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"polyendocrinopathies",
+              "value": 1
+            },
+            {
+              "name": "\"synovitis",
+              "value": 1
+            },
+            {
+              "name": "agammaglobulinemia",
+              "value": 1
+            },
+            {
+              "name": "churg-strauss syndrome",
+              "value": 1
+            },
+            {
+              "name": "enthesopathy",
+              "value": 1
+            },
+            {
+              "name": "felty syndrome",
+              "value": 1
+            },
+            {
+              "name": "gout",
+              "value": 1
+            },
+            {
+              "name": "igg deficiency",
+              "value": 1
+            },
+            {
+              "name": "job syndrome",
+              "value": 1
+            },
+            {
+              "name": "addison disease",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "autoinflammatory syndromes",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"albinism",
+              "value": 1
+            },
+            {
+              "name": "\"amyloidosis",
+              "value": 1
+            },
+            {
+              "name": "ataxia telangiectasia",
+              "value": 1
+            },
+            {
+              "name": "ciliary motility disorders",
+              "value": 1
+            },
+            {
+              "name": "cutis laxa",
+              "value": 1
+            },
+            {
+              "name": "factor xiii deficiency",
+              "value": 1
+            },
+            {
+              "name": "focal dermal hypoplasia",
+              "value": 1
+            },
+            {
+              "name": "gangliosidoses",
+              "value": 1
+            },
+            {
+              "name": "\"gangliosidoses",
+              "value": 1
+            },
+            {
+              "name": "hermanski-pudlak syndrome",
+              "value": 1
+            },
+            {
+              "name": "ichthyosis vulgaris",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "degenerative arthropathies",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"arthritis",
+              "value": 1
+            },
+            {
+              "name": "hemarthrosis",
+              "value": 1
+            },
+            {
+              "name": "salter-harris fractures",
+              "value": 1
+            },
+            {
+              "name": "scoliosis",
+              "value": 1
+            },
+            {
+              "name": "colles' fracture",
+              "value": 1
+            },
+            {
+              "name": "developmental dysplasia of the hip",
+              "value": 1
+            },
+            {
+              "name": "joint diseases",
+              "value": 1
+            },
+            {
+              "name": "spondylarthritis",
+              "value": 1
+            },
+            {
+              "name": "\"still's disease",
+              "value": 1
+            },
+            {
+              "name": "\"osteoarthropathy",
+              "value": 1
+            },
+            {
+              "name": "spinal osteochondrosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "inflammatory arthropathies",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"arthritis",
+              "value": 1
+            },
+            {
+              "name": "axial spondyloarthritis",
+              "value": 1
+            },
+            {
+              "name": "crest syndrome",
+              "value": 1
+            },
+            {
+              "name": "femoracetabular impingement",
+              "value": 1
+            },
+            {
+              "name": "lipedema",
+              "value": 1
+            },
+            {
+              "name": "mucopolysaccharidosis i",
+              "value": 1
+            },
+            {
+              "name": "mucopolysaccharidosis vii",
+              "value": 1
+            },
+            {
+              "name": "\"osteoarthritis",
+              "value": 1
+            },
+            {
+              "name": "cellulitis",
+              "value": 1
+            },
+            {
+              "name": "dermatomyositis",
+              "value": 1
+            },
+            {
+              "name": "joint instability",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "soft tissue rheumatism",
+          "value": 1,
+          "children": [
+            {
+              "name": "dupuytren contracture",
+              "value": 1
+            },
+            {
+              "name": "mitochondrial encephalomyopathies",
+              "value": 1
+            },
+            {
+              "name": "myofascial pain syndromes",
+              "value": 1
+            },
+            {
+              "name": "\"ophthalmoplegia",
+              "value": 1
+            },
+            {
+              "name": "autosomal emery-dreifuss muscular dystrophy",
+              "value": 1
+            },
+            {
+              "name": "chronic exertional compartment syndrome",
+              "value": 1
+            },
+            {
+              "name": "popliteal cyst",
+              "value": 1
+            },
+            {
+              "name": "temporomandibular joint dysfunction syndrome",
+              "value": 1
+            },
+            {
+              "name": "craniomandibular disorders",
+              "value": 1
+            },
+            {
+              "name": "\"muscular dystrophy",
+              "value": 1
+            },
+            {
+              "name": "postpoliomyelitis syndrome",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "systemic and connective tissue diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "lichen sclerosus et atrophicus",
+              "value": 1
+            },
+            {
+              "name": "lupus nephritis",
+              "value": 1
+            },
+            {
+              "name": "\"osteoarthritis",
+              "value": 1
+            },
+            {
+              "name": "\"panniculitis",
+              "value": 1
+            },
+            {
+              "name": "\"purpura",
+              "value": 1
+            },
+            {
+              "name": "\"still's disease",
+              "value": 1
+            },
+            {
+              "name": "thrombotic microangiopathies",
+              "value": 1
+            },
+            {
+              "name": "ganglion cysts",
+              "value": 1
+            },
+            {
+              "name": "lentigo",
+              "value": 1
+            },
+            {
+              "name": "mucopolysaccharidosis iii",
+              "value": 1
+            },
+            {
+              "name": "\"lupus erythematosus",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "urology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abnormalities",
+              "value": 1
+            },
+            {
+              "name": "androgen-insensitivity syndrome",
+              "value": 1
+            },
+            {
+              "name": "\"anemia",
+              "value": 1
+            },
+            {
+              "name": "\"angioedemas",
+              "value": 1
+            },
+            {
+              "name": "\"bulbo-spinal atrophy",
+              "value": 1
+            },
+            {
+              "name": "classical lissencephalies and subcortical band heterotopias",
+              "value": 1
+            },
+            {
+              "name": "crigler-najjar syndrome",
+              "value": 1
+            },
+            {
+              "name": "cutis laxa",
+              "value": 1
+            },
+            {
+              "name": "cystic fibrosis",
+              "value": 1
+            },
+            {
+              "name": "\"disorder of sex development",
+              "value": 1
+            },
+            {
+              "name": "erythroplasia",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "urology",
+          "value": 1,
+          "children": [
+            {
+              "name": "endometrial neoplasms",
+              "value": 1
+            },
+            {
+              "name": "endometriosis",
+              "value": 1
+            },
+            {
+              "name": "endometritis",
+              "value": 1
+            },
+            {
+              "name": "hemospermia",
+              "value": 1
+            },
+            {
+              "name": "\"kidney diseases",
+              "value": 1
+            },
+            {
+              "name": "pelvic inflammatory disease",
+              "value": 1
+            },
+            {
+              "name": "penile induration",
+              "value": 1
+            },
+            {
+              "name": "priapism",
+              "value": 1
+            },
+            {
+              "name": "prostatic intraepithelial neoplasia",
+              "value": 1
+            },
+            {
+              "name": "urinary bladder neck obstruction",
+              "value": 1
+            },
+            {
+              "name": "vaginal discharge",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "urology - abnormal signs/symptoms",
+          "value": 1,
+          "children": [
+            {
+              "name": "urinary incontinence",
+              "value": 1
+            },
+            {
+              "name": "enuresis",
+              "value": 1
+            },
+            {
+              "name": "polyuria",
+              "value": 1
+            },
+            {
+              "name": "urinary retention",
+              "value": 1
+            },
+            {
+              "name": "nocturia",
+              "value": 1
+            },
+            {
+              "name": "hemospermia",
+              "value": 1
+            },
+            {
+              "name": "hematuria",
+              "value": 1
+            },
+            {
+              "name": "dysuria",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

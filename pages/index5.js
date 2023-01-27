@@ -17,7 +17,7 @@ export default function Home() {
       <main>
         <Onboarding showZoomies={true} showGlobe={false} />
 
-        <div className={styles.onboarding}>
+        {/* <div className={styles.onboarding}>
           <div className={styles.leftPane}>
             <img src="/logo-blue.png" className={styles.logo4} />
 
@@ -79,7 +79,7 @@ export default function Home() {
 
             <button className={styles.submit}>Next: Create a tag &gt;</button>
           </div>
-        </div>
+        </div> */}
       </main>
     </>
   );

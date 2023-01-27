@@ -1,0 +1,860 @@
+{
+  "name": "H1 Taxonomy",
+  "children": [
+    {
+      "name": "allergy and immunology",
+      "value": 1,
+      "children": [
+        {
+          "name": "clinical allergy",
+          "value": 1,
+          "children": [
+            {
+              "name": "anthracosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "clinical immunology",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "anesthesiology",
+      "value": 1,
+      "children": [
+        {
+          "name": "anesthesiology - adverse event",
+          "value": 1,
+          "children": [
+            {
+              "name": "chemical and drug induced liver injury",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "pain medicine",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "surgical anesthesiology",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "cardiology",
+      "value": 1,
+      "children": [
+        {
+          "name": "clinical cardiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "aneurysm",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital heart disease",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "diseases of vessels",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "echocardiology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "electrophysiology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "heart failure/transplant",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "interventional cardiology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "nuclear cardiology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "vascular",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "cardiology - other disorders",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "critical care",
+      "value": 1,
+      "children": [
+        {
+          "name": "burns",
+          "value": 1,
+          "children": [
+            {
+              "name": "sunburn",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "critical care - external causes of morbidity",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "medical and surgical complications",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "\"mental",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "injuries and trauma",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "poisoning",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "dermatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "autoinflammatory skin diseases",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"amyloid neuropathies",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "burns",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "clinical dermatology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "cosmetic dermatology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "dermatologic oncology/mohs-micrographic surgery",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "\"endocrinology",
+      "value": 1,
+      "children": [
+        {
+          "name": " diabetes & metabolism\"",
+          "value": 1,
+          "children": [
+            {
+              "name": "bone disease",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gastroenterology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "alstrom syndrome",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "diseases of oral cavity",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "general gastroenterology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "inflammatory bowel disease",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "irritable bowel syndrome",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "genetics",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"anemia",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hematology",
+      "value": 1,
+      "children": [
+        {
+          "name": "general hematology",
+          "value": 1,
+          "children": [
+            {
+              "name": "blood coagulation disorders",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "leukemia",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "lymphoma",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "multiple myeloma",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "hepatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "general hepatology",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"hypertension",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "transplant surgery",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "infectious disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "airway disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "bronchial fistula",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "bacterial",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "fungal",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "mycology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "parasitic",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "prion diseases",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "protozoal",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "stds",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "vaccines",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "viral",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "L1",
+      "value": 1,
+      "children": [
+        {
+          "name": "L2",
+          "value": 1,
+          "children": [
+            {
+              "name": "L3 (Indication)",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "nephrology",
+      "value": 1,
+      "children": [
+        {
+          "name": "acute kidney injury",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"acidosis",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "kidney diseases",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "transplant surgery",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "obstetrics/gynecology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abnormalities",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "gynecology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "obstetrics",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "oncology",
+      "value": 1,
+      "children": [
+        {
+          "name": "breast",
+          "value": 1,
+          "children": [
+            {
+              "name": "cysts",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "gastrointestinal",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "genitourinary",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "head and neck",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "kidney",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "lung",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "musculoskeletal system",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "nervous system",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "neuroendocrine",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "skin",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "solid tumor",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ophthalmology",
+      "value": 1,
+      "children": [
+        {
+          "name": "cornea",
+          "value": 1,
+          "children": [
+            {
+              "name": "fuchs' endothelial dystrophy",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "eye diseases & adnexa",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "neuro-ophthalmology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "oculoplastics",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "optometry",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "pediatric ophthalmology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "retina",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "uveitis",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "glaucoma",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "oral and maxillofacial surgery",
+      "value": 1,
+      "children": [
+        {
+          "name": "oral and maxillofacial",
+          "value": 1,
+          "children": [
+            {
+              "name": "dentin sensitivity",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "orthopedic surgery/podiatry",
+      "value": 1,
+      "children": [
+        {
+          "name": "adult reconstructive orthopedic surgery",
+          "value": 1,
+          "children": [
+            {
+              "name": "abdominoplasty",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "diseases of the musculoskeletal system and connective tissue",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "disorders of bone density and structure",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "foot and ankle surgery",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "orthopedic surgery of the spine",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "orthopedic trauma",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "osteopathies",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "pediatric orthopedic surgery",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "sports medicine",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "hand surgery",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "other - patient risk factors",
+      "value": 1,
+      "children": [
+        {
+          "name": "critical care - external causes of morbidity",
+          "value": 1,
+          "children": [
+            {
+              "name": "swimming",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "factors influencing health status and contact with health services",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "otolaryngology",
+      "value": 1,
+      "children": [
+        {
+          "name": "audiology",
+          "value": 1,
+          "children": [
+            {
+              "name": "ear neoplasms",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "diseases of ear",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "nose",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "otology & neurotology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "throat",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "psychiatry & neurology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "agenesis of corpus callosum",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "neurology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "psychiatry",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "pulmonary disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "airway disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"eye infections",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "alveoli diseases",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "general pulmonary disease",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "interstitium disease",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "vessel disease",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "\"congenital malformations",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "rare disease",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "alstrom syndrome",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rheumatology",
+      "value": 1,
+      "children": [
+        {
+          "name": "autoimmune disease",
+          "value": 1,
+          "children": [
+            {
+              "name": "digeorge syndrome",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "autoinflammatory syndromes",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "degenerative arthropathies",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "inflammatory arthropathies",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "soft tissue rheumatism",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "systemic and connective tissue diseases",
+          "value": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "urology",
+      "value": 1,
+      "children": [
+        {
+          "name": "congenital/genetic",
+          "value": 1,
+          "children": [
+            {
+              "name": "\"abnormalities",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "urology",
+          "value": 1,
+          "children": []
+        },
+        {
+          "name": "urology - abnormal signs/symptoms",
+          "value": 1,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "d3": "^7.8.2",
     "d3-geo": "^3.0.1",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "stats.js": "^0.17.0",
+    "swr": "^2.0.2",
     "three": "^0.146.0"
   },
   "devDependencies": {
